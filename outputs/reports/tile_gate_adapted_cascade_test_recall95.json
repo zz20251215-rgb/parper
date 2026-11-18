@@ -1,0 +1,287 @@
+{
+  "gate": "MobileNetV3-Small fixed 512x512 tile gate",
+  "gate_checkpoint": "outputs/runs/tile_gate_adapted_mobilenetv3_small/best.pt",
+  "segmenter": "MobileNetV3-Large-U-Net",
+  "target_validation_recall": 0.95,
+  "validation_choice": {
+    "threshold": 0.004335,
+    "recall": 0.9534883720930233,
+    "precision": 0.1782608695652174,
+    "f1": 0.30036630036630035,
+    "false_positive_rate": 0.7354085603112841,
+    "selected_tiles": 230,
+    "selected_rate": 0.7666666666666667,
+    "tiles": 300
+  },
+  "test_gate": {
+    "threshold": 0.004335,
+    "recall": 0.9583333333333334,
+    "precision": 0.19491525423728814,
+    "f1": 0.323943661971831,
+    "false_positive_rate": 0.7196969696969697,
+    "selected_tiles": 118,
+    "selected_rate": 0.7564102564102564,
+    "tiles": 156
+  },
+  "test_cascade": {
+    "dice": 0.41247166885363235,
+    "iou": 0.25982003644355944,
+    "precision": 0.35964843851574485,
+    "recall": 0.48348306358583565,
+    "tp": 13831,
+    "fp": 24626,
+    "fn": 14776
+  },
+  "mean_selected_tiles": 9.076923076923077,
+  "mean_segment_seconds": 0.07629084784555464,
+  "frames": [
+    {
+      "group": "TB_Camera3_000265",
+      "selected_tiles": [
+        "B",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "N"
+      ],
+      "tiles": 7,
+      "seconds": 0.07571956599713303,
+      "tp": 706,
+      "fp": 2972,
+      "fn": 652
+    },
+    {
+      "group": "TB_Camera3_001322",
+      "selected_tiles": [
+        "C",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8,
+      "seconds": 0.07806845199957024,
+      "tp": 266,
+      "fp": 1254,
+      "fn": 85
+    },
+    {
+      "group": "TB_Camera3_001658",
+      "selected_tiles": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 10,
+      "seconds": 0.08627988099760842,
+      "tp": 1899,
+      "fp": 740,
+      "fn": 2278
+    },
+    {
+      "group": "TB_Camera4_000628",
+      "selected_tiles": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "H",
+        "I",
+        "N"
+      ],
+      "tiles": 8,
+      "seconds": 0.07100700899900403,
+      "tp": 5029,
+      "fp": 4147,
+      "fn": 6340
+    },
+    {
+      "group": "TB_Camera4_000850",
+      "selected_tiles": [
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8,
+      "seconds": 0.07397111700265668,
+      "tp": 1524,
+      "fp": 3424,
+      "fn": 87
+    },
+    {
+      "group": "TB_Camera4_001237",
+      "selected_tiles": [
+        "D",
+        "E",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8,
+      "seconds": 0.0714482909970684,
+      "tp": 1479,
+      "fp": 1436,
+      "fn": 1721
+    },
+    {
+      "group": "TB_Camera6_001520",
+      "selected_tiles": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 10,
+      "seconds": 0.07552220200159354,
+      "tp": 53,
+      "fp": 1197,
+      "fn": 360
+    },
+    {
+      "group": "TB_Camera7_000770",
+      "selected_tiles": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L"
+      ],
+      "tiles": 9,
+      "seconds": 0.07723115700355265,
+      "tp": 1129,
+      "fp": 2790,
+      "fn": 1411
+    },
+    {
+      "group": "TB_Camera7_001292",
+      "selected_tiles": [
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "H",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 9,
+      "seconds": 0.075088916993991,
+      "tp": 786,
+      "fp": 717,
+      "fn": 240
+    },
+    {
+      "group": "TB_Camera9_000397",
+      "selected_tiles": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 11,
+      "seconds": 0.07910956900013844,
+      "tp": 468,
+      "fp": 1350,
+      "fn": 509
+    },
+    {
+      "group": "TB_Camera9_000903",
+      "selected_tiles": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 11,
+      "seconds": 0.08182281100016553,
+      "tp": 296,
+      "fp": 1052,
+      "fn": 37
+    },
+    {
+      "group": "TB_Camera9_001643",
+      "selected_tiles": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 10,
+      "seconds": 0.07729187000222737,
+      "tp": 182,
+      "fp": 2725,
+      "fn": 434
+    },
+    {
+      "group": "TB_Camera9_001684",
+      "selected_tiles": [
+        "A",
+        "C",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 9,
+      "seconds": 0.06922017999750096,
+      "tp": 14,
+      "fp": 822,
+      "fn": 622
+    }
+  ]
+}

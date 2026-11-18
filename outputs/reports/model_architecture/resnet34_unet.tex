@@ -1,0 +1,89 @@
+\documentclass[border=10pt,tikz]{standalone}
+\usepackage{import}
+\subimport{/home/zz/Desktop/Parper/.tools/PlotNeuralNet/layers/}{init}
+\usetikzlibrary{calc,positioning}
+\renewcommand{\familydefault}{\sfdefault}
+\definecolor{encoder}{HTML}{0072B2}
+\definecolor{decoder}{HTML}{009E73}
+\definecolor{upsample}{HTML}{D55E00}
+\definecolor{ink}{HTML}{263238}
+\begin{document}
+\begin{tikzpicture}[font=\sffamily\small,text=ink,
+ flow/.style={-Stealth,line width=.8pt,draw=ink},
+ up/.style={-Stealth,line width=.9pt,draw=upsample},
+ skip/.style={-Stealth,dashed,line width=.8pt,draw=encoder},
+ concat/.style={circle,draw=decoder,line width=.8pt,fill=white,inner sep=2.5pt,font=\sffamily\scriptsize\bfseries},
+ stage/.style={align=center,font=\sffamily\small,text width=2.8cm,fill=white,inner sep=2pt},
+ tensor/.style={font=\sffamily\scriptsize,fill=white,inner sep=1pt}]
+\node[font=\sffamily\Large\bfseries] at (11.2,13.7) {ResNet34--U-Net};
+\node[font=\sffamily\small] at (11.2,13.05) {24,436,241 parameters\quad |\quad ImageNet-pretrained encoder + randomly initialized decoder};
+\pic at (0,11,0) {Box={name=input,fill=black!30,opacity=.35,height=9,depth=9,width=2.5,scale=.2}};
+\node[stage,anchor=south] at (0.25,12.24) {RGB input};
+\node[tensor,anchor=north] at (0.25,9.83) {$ 3\times512\times512 $};
+\pic at (2,9,0) {RightBandedBox={name=stem,fill=encoder,opacity=.35,height=8,depth=8,width=2.5,scale=.2,bandfill=encoder!85!black,bandopacity=.7}};
+\node[stage,anchor=east,align=right] at (1.5,8.7) {Stem: $7\!\times\!7$, s2\\BN + ReLU};
+\node[tensor,anchor=north] at (2.25,7.93) {$ 64\times256\times256 $};
+\pic at (4,7,0) {RightBandedBox={name=e1,fill=encoder,opacity=.35,height=7,depth=7,width=2.5,scale=.2,bandfill=encoder!85!black,bandopacity=.7}};
+\node[stage,anchor=east,align=right] at (3.5,6.7) {Layer 1 (3 blocks)\\MaxPool s2};
+\node[tensor,anchor=north] at (4.25,6.029999999999999) {$ 64\times128\times128 $};
+\pic at (6,5,0) {RightBandedBox={name=e2,fill=encoder,opacity=.35,height=6,depth=6,width=2.5,scale=.2,bandfill=encoder!85!black,bandopacity=.7}};
+\node[stage,anchor=east,align=right] at (5.5,4.7) {Layer 2 (4 blocks)\\s2};
+\node[tensor,anchor=north] at (6.25,4.130000000000001) {$ 128\times64\times64 $};
+\pic at (8,3,0) {RightBandedBox={name=e3,fill=encoder,opacity=.35,height=5,depth=5,width=2.5,scale=.2,bandfill=encoder!85!black,bandopacity=.7}};
+\node[stage,anchor=east,align=right] at (7.5,2.7) {Layer 3 (6 blocks)\\s2};
+\node[tensor,anchor=north] at (8.25,2.23) {$ 256\times32\times32 $};
+\pic at (10,1,0) {RightBandedBox={name=e4,fill=encoder,opacity=.35,height=4,depth=4,width=2.5,scale=.2,bandfill=encoder!85!black,bandopacity=.7}};
+\node[stage,anchor=east,align=right] at (9.5,0.7) {Layer 4 (3 blocks)\\s2};
+\node[tensor,anchor=north] at (10.25,0.32999999999999996) {$ 512\times16\times16 $};
+\pic at (13,3,0) {RightBandedBox={name=d3,fill=decoder,opacity=.35,height=5,depth=5,width=2.5,scale=.2,bandfill=decoder!85!black,bandopacity=.7}};
+\node[stage,anchor=north west,align=left] at (14.65,2.5) {Double conv\\$768\rightarrow256$};
+\node[tensor,anchor=north] at (13.25,2.23) {$ 256\times32\times32 $};
+\node[concat] (d3cat) at (12.35,3) {C};
+\draw[skip] (e3-east) -- (d3cat);
+\draw[flow] (d3cat) -- (d3-west);
+\pic at (15,5,0) {RightBandedBox={name=d2,fill=decoder,opacity=.35,height=6,depth=6,width=2.5,scale=.2,bandfill=decoder!85!black,bandopacity=.7}};
+\node[stage,anchor=north west,align=left] at (16.65,4.5) {Double conv\\$384\rightarrow128$};
+\node[tensor,anchor=north] at (15.25,4.130000000000001) {$ 128\times64\times64 $};
+\node[concat] (d2cat) at (14.35,5) {C};
+\draw[skip] (e2-east) -- (d2cat);
+\draw[flow] (d2cat) -- (d2-west);
+\pic at (17,7,0) {RightBandedBox={name=d1,fill=decoder,opacity=.35,height=7,depth=7,width=2.5,scale=.2,bandfill=decoder!85!black,bandopacity=.7}};
+\node[stage,anchor=north west,align=left] at (18.65,6.5) {Double conv\\$192\rightarrow64$};
+\node[tensor,anchor=north] at (17.25,6.029999999999999) {$ 64\times128\times128 $};
+\node[concat] (d1cat) at (16.35,7) {C};
+\draw[skip] (e1-east) -- (d1cat);
+\draw[flow] (d1cat) -- (d1-west);
+\pic at (19,9,0) {RightBandedBox={name=d0,fill=decoder,opacity=.35,height=8,depth=8,width=2.5,scale=.2,bandfill=decoder!85!black,bandopacity=.7}};
+\node[stage,anchor=north west,align=left] at (20.65,8.5) {Double conv\\$128\rightarrow32$};
+\node[tensor,anchor=north] at (19.25,7.93) {$ 32\times256\times256 $};
+\node[concat] (d0cat) at (18.35,9) {C};
+\draw[skip] (stem-east) -- (d0cat);
+\draw[flow] (d0cat) -- (d0-west);
+\pic at (21,11,0) {RightBandedBox={name=df,fill=decoder,opacity=.35,height=9,depth=9,width=2.5,scale=.2,bandfill=decoder!85!black,bandopacity=.7}};
+\node[stage,anchor=south] at (21.25,12.24) {Double conv\\$32\rightarrow16$};
+\node[tensor,anchor=north] at (21.25,9.83) {$ 16\times512\times512 $};
+\pic at (23.4,11,0) {Box={name=out,fill=upsample,opacity=.35,height=9,depth=9,width=2.5,scale=.2}};
+\node[stage,anchor=south] at (23.65,12.24) {$1\!\times\!1$ head\\Logits};
+\node[tensor,anchor=north] at (23.65,9.83) {$ 1\times512\times512 $};
+
+\draw[flow] (input-east) -- (stem-west) node[midway,sloped,above,font=\scriptsize] {Normalize};
+\draw[flow] (stem-east) -- (e1-west);
+\draw[flow] (e1-east) -- (e2-west);
+\draw[flow] (e2-east) -- (e3-west);
+\draw[flow] (e3-east) -- (e4-west);
+\draw[up] (e4-east) -- (d3cat);
+\draw[up] (d3-east) -- (d2cat);
+\draw[up] (d2-east) -- (d1cat);
+\draw[up] (d1-east) -- (d0cat);
+\draw[up] (d0-east) -- (df-west);
+\draw[flow] (df-east) -- (out-west);
+\draw[skip] (2,-1.1) -- (3.2,-1.1);
+\node[anchor=west,font=\small] at (3.3,-1.1) {Encoder skip};
+\node[concat] at (7.3,-1.1) {C};
+\node[anchor=west,font=\small] at (7.65,-1.1) {Channel concatenation};
+\draw[up] (13,-1.1) -- (14.2,-1.1);
+\node[anchor=west,font=\small] at (14.3,-1.1) {Bilinear upsample $\times2$};
+\node[align=center,font=\small,text width=24cm] at (12,-2.15) {Double conv: $(3\!\times\!3\ \mathrm{Conv}+\mathrm{BN}+\mathrm{ReLU})\times2$.\quad BasicBlock: two $3\!\times\!3$ convolutions with an internal residual shortcut.\\Four encoder-to-decoder skips; the final upsample has no skip. ImageNet channel normalization is inside the model.};
+\node[align=center,font=\scriptsize,text width=24cm] at (12,-3.0) {Encoder: 21,284,672 parameters. Decoder + head: 3,151,569 parameters. Tensor labels are $C\times H\times W$; volumes are schematic.\\No classification pooling or fully connected layer. Sigmoid and prediction thresholding are applied outside the network.};
+\end{tikzpicture}
+\end{document}

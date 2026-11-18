@@ -1,0 +1,1300 @@
+{
+  "version": 1,
+  "band": 8,
+  "gap": 3,
+  "definition": "crack pixels on both sides of the same seam within the band and axis gap; review proxy only",
+  "records": [
+    {
+      "group": "TB_Camera3_000211",
+      "split": "val",
+      "crack_pixels": 5054,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 53,
+          "right_pixels": 45,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 24,
+          "right_pixels": 28,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_000211.png",
+      "mask": "masks/TB_Camera3_000211.png"
+    },
+    {
+      "group": "TB_Camera3_000238",
+      "split": "train",
+      "crack_pixels": 6696,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 26,
+          "bottom_pixels": 25,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_000238.png",
+      "mask": "masks/TB_Camera3_000238.png"
+    },
+    {
+      "group": "TB_Camera3_000265",
+      "split": "test",
+      "crack_pixels": 1358,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 25,
+          "bottom_pixels": 40,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_000265.png",
+      "mask": "masks/TB_Camera3_000265.png"
+    },
+    {
+      "group": "TB_Camera3_000336",
+      "split": "train",
+      "crack_pixels": 5102,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 31,
+          "bottom_pixels": 32,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_000336.png",
+      "mask": "masks/TB_Camera3_000336.png"
+    },
+    {
+      "group": "TB_Camera3_000850",
+      "split": "train",
+      "crack_pixels": 4099,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 33,
+          "bottom_pixels": 35,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_000850.png",
+      "mask": "masks/TB_Camera3_000850.png"
+    },
+    {
+      "group": "TB_Camera3_001107",
+      "split": "train",
+      "crack_pixels": 1696,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 110,
+          "right_pixels": 52,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001107.png",
+      "mask": "masks/TB_Camera3_001107.png"
+    },
+    {
+      "group": "TB_Camera3_001237",
+      "split": "train",
+      "crack_pixels": 17445,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 666,
+          "right_pixels": 1299,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 24,
+          "bottom_pixels": 23,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001237.png",
+      "mask": "masks/TB_Camera3_001237.png"
+    },
+    {
+      "group": "TB_Camera3_001410",
+      "split": "train",
+      "crack_pixels": 1873,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 17,
+          "right_pixels": 16,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001410.png",
+      "mask": "masks/TB_Camera3_001410.png"
+    },
+    {
+      "group": "TB_Camera3_001534",
+      "split": "train",
+      "crack_pixels": 9054,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 39,
+          "right_pixels": 34,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 67,
+          "right_pixels": 57,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 52,
+          "right_pixels": 46,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001534.png",
+      "mask": "masks/TB_Camera3_001534.png"
+    },
+    {
+      "group": "TB_Camera3_001565",
+      "split": "train",
+      "crack_pixels": 9165,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 41,
+          "right_pixels": 42,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001565.png",
+      "mask": "masks/TB_Camera3_001565.png"
+    },
+    {
+      "group": "TB_Camera3_001658",
+      "split": "test",
+      "crack_pixels": 4177,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 41,
+          "right_pixels": 53,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001658.png",
+      "mask": "masks/TB_Camera3_001658.png"
+    },
+    {
+      "group": "TB_Camera3_001666",
+      "split": "train",
+      "crack_pixels": 2747,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 36,
+          "right_pixels": 42,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001666.png",
+      "mask": "masks/TB_Camera3_001666.png"
+    },
+    {
+      "group": "TB_Camera3_001738",
+      "split": "val",
+      "crack_pixels": 3047,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 27,
+          "right_pixels": 22,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 21,
+          "right_pixels": 20,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 124,
+          "bottom_pixels": 147,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001738.png",
+      "mask": "masks/TB_Camera3_001738.png"
+    },
+    {
+      "group": "TB_Camera3_001741",
+      "split": "train",
+      "crack_pixels": 1013,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 28,
+          "bottom_pixels": 29,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001741.png",
+      "mask": "masks/TB_Camera3_001741.png"
+    },
+    {
+      "group": "TB_Camera3_001782",
+      "split": "train",
+      "crack_pixels": 2386,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 88,
+          "right_pixels": 76,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001782.png",
+      "mask": "masks/TB_Camera3_001782.png"
+    },
+    {
+      "group": "TB_Camera3_001814",
+      "split": "train",
+      "crack_pixels": 2711,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 23,
+          "right_pixels": 24,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 17,
+          "right_pixels": 16,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera3_001814.png",
+      "mask": "masks/TB_Camera3_001814.png"
+    },
+    {
+      "group": "TB_Camera4_000034",
+      "split": "train",
+      "crack_pixels": 40006,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 166,
+          "right_pixels": 230,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 237,
+          "right_pixels": 237,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_000034.png",
+      "mask": "masks/TB_Camera4_000034.png"
+    },
+    {
+      "group": "TB_Camera4_000035",
+      "split": "val",
+      "crack_pixels": 44432,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 160,
+          "right_pixels": 137,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 219,
+          "right_pixels": 211,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 160,
+          "right_pixels": 114,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_000035.png",
+      "mask": "masks/TB_Camera4_000035.png"
+    },
+    {
+      "group": "TB_Camera4_000628",
+      "split": "test",
+      "crack_pixels": 11369,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 28,
+          "right_pixels": 30,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 51,
+          "right_pixels": 74,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 87,
+          "right_pixels": 66,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_000628.png",
+      "mask": "masks/TB_Camera4_000628.png"
+    },
+    {
+      "group": "TB_Camera4_000662",
+      "split": "val",
+      "crack_pixels": 22995,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 140,
+          "right_pixels": 113,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 125,
+          "right_pixels": 136,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 110,
+          "right_pixels": 122,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_000662.png",
+      "mask": "masks/TB_Camera4_000662.png"
+    },
+    {
+      "group": "TB_Camera4_000850",
+      "split": "test",
+      "crack_pixels": 1611,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 30,
+          "bottom_pixels": 32,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_000850.png",
+      "mask": "masks/TB_Camera4_000850.png"
+    },
+    {
+      "group": "TB_Camera4_000884",
+      "split": "train",
+      "crack_pixels": 749,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 17,
+          "right_pixels": 16,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_000884.png",
+      "mask": "masks/TB_Camera4_000884.png"
+    },
+    {
+      "group": "TB_Camera4_001108",
+      "split": "train",
+      "crack_pixels": 4635,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 29,
+          "right_pixels": 43,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001108.png",
+      "mask": "masks/TB_Camera4_001108.png"
+    },
+    {
+      "group": "TB_Camera4_001237",
+      "split": "test",
+      "crack_pixels": 3200,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 19,
+          "bottom_pixels": 24,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001237.png",
+      "mask": "masks/TB_Camera4_001237.png"
+    },
+    {
+      "group": "TB_Camera4_001262",
+      "split": "train",
+      "crack_pixels": 4979,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 40,
+          "right_pixels": 43,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001262.png",
+      "mask": "masks/TB_Camera4_001262.png"
+    },
+    {
+      "group": "TB_Camera4_001515",
+      "split": "train",
+      "crack_pixels": 2932,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 48,
+          "right_pixels": 35,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001515.png",
+      "mask": "masks/TB_Camera4_001515.png"
+    },
+    {
+      "group": "TB_Camera4_001521",
+      "split": "train",
+      "crack_pixels": 3315,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 49,
+          "right_pixels": 60,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001521.png",
+      "mask": "masks/TB_Camera4_001521.png"
+    },
+    {
+      "group": "TB_Camera4_001527",
+      "split": "train",
+      "crack_pixels": 11385,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 24,
+          "right_pixels": 21,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 68,
+          "right_pixels": 53,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001527.png",
+      "mask": "masks/TB_Camera4_001527.png"
+    },
+    {
+      "group": "TB_Camera4_001532",
+      "split": "train",
+      "crack_pixels": 2527,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 19,
+          "right_pixels": 24,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 18,
+          "right_pixels": 20,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 39,
+          "right_pixels": 40,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001532.png",
+      "mask": "masks/TB_Camera4_001532.png"
+    },
+    {
+      "group": "TB_Camera4_001620",
+      "split": "train",
+      "crack_pixels": 5162,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 70,
+          "right_pixels": 38,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 44,
+          "right_pixels": 46,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001620.png",
+      "mask": "masks/TB_Camera4_001620.png"
+    },
+    {
+      "group": "TB_Camera4_001627",
+      "split": "train",
+      "crack_pixels": 2847,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 101,
+          "right_pixels": 92,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 16,
+          "right_pixels": 20,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 27,
+          "bottom_pixels": 243,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001627.png",
+      "mask": "masks/TB_Camera4_001627.png"
+    },
+    {
+      "group": "TB_Camera4_001741",
+      "split": "train",
+      "crack_pixels": 2752,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 704,
+          "right_pixels": 279,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 18,
+          "bottom_pixels": 19,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 24,
+          "bottom_pixels": 20,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera4_001741.png",
+      "mask": "masks/TB_Camera4_001741.png"
+    },
+    {
+      "group": "TB_Camera5_000886",
+      "split": "train",
+      "crack_pixels": 9151,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 79,
+          "right_pixels": 80,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera5_000886.png",
+      "mask": "masks/TB_Camera5_000886.png"
+    },
+    {
+      "group": "TB_Camera5_000894",
+      "split": "train",
+      "crack_pixels": 3504,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 50,
+          "right_pixels": 45,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera5_000894.png",
+      "mask": "masks/TB_Camera5_000894.png"
+    },
+    {
+      "group": "TB_Camera5_001225",
+      "split": "train",
+      "crack_pixels": 1393,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 32,
+          "bottom_pixels": 45,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera5_001225.png",
+      "mask": "masks/TB_Camera5_001225.png"
+    },
+    {
+      "group": "TB_Camera5_001717",
+      "split": "train",
+      "crack_pixels": 494,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 31,
+          "bottom_pixels": 16,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera5_001717.png",
+      "mask": "masks/TB_Camera5_001717.png"
+    },
+    {
+      "group": "TB_Camera5_001822",
+      "split": "train",
+      "crack_pixels": 1603,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 32,
+          "right_pixels": 250,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera5_001822.png",
+      "mask": "masks/TB_Camera5_001822.png"
+    },
+    {
+      "group": "TB_Camera5_001823",
+      "split": "train",
+      "crack_pixels": 3160,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 17,
+          "right_pixels": 52,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera5_001823.png",
+      "mask": "masks/TB_Camera5_001823.png"
+    },
+    {
+      "group": "TB_Camera6_000020",
+      "split": "val",
+      "crack_pixels": 2723,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 74,
+          "right_pixels": 188,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 76,
+          "bottom_pixels": 104,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera6_000020.png",
+      "mask": "masks/TB_Camera6_000020.png"
+    },
+    {
+      "group": "TB_Camera6_001021",
+      "split": "train",
+      "crack_pixels": 511,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 26,
+          "bottom_pixels": 25,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera6_001021.png",
+      "mask": "masks/TB_Camera6_001021.png"
+    },
+    {
+      "group": "TB_Camera6_001313",
+      "split": "train",
+      "crack_pixels": 520,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 24,
+          "bottom_pixels": 26,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera6_001313.png",
+      "mask": "masks/TB_Camera6_001313.png"
+    },
+    {
+      "group": "TB_Camera6_001965",
+      "split": "train",
+      "crack_pixels": 2352,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 9,
+          "bottom_pixels": 19,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera6_001965.png",
+      "mask": "masks/TB_Camera6_001965.png"
+    },
+    {
+      "group": "TB_Camera7_000389",
+      "split": "train",
+      "crack_pixels": 6672,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 28,
+          "right_pixels": 31,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 2,
+          "right_pixels": 18,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera7_000389.png",
+      "mask": "masks/TB_Camera7_000389.png"
+    },
+    {
+      "group": "TB_Camera7_000462",
+      "split": "train",
+      "crack_pixels": 2980,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 26,
+          "bottom_pixels": 25,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 22,
+          "bottom_pixels": 41,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera7_000462.png",
+      "mask": "masks/TB_Camera7_000462.png"
+    },
+    {
+      "group": "TB_Camera7_000769",
+      "split": "train",
+      "crack_pixels": 2430,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 494,
+          "right_pixels": 301,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 22,
+          "bottom_pixels": 18,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera7_000769.png",
+      "mask": "masks/TB_Camera7_000769.png"
+    },
+    {
+      "group": "TB_Camera7_000770",
+      "split": "test",
+      "crack_pixels": 2540,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 473,
+          "right_pixels": 541,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera7_000770.png",
+      "mask": "masks/TB_Camera7_000770.png"
+    },
+    {
+      "group": "TB_Camera7_000799",
+      "split": "train",
+      "crack_pixels": 3966,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 30,
+          "right_pixels": 39,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 34,
+          "right_pixels": 26,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera7_000799.png",
+      "mask": "masks/TB_Camera7_000799.png"
+    },
+    {
+      "group": "TB_Camera7_001132",
+      "split": "train",
+      "crack_pixels": 1487,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 29,
+          "right_pixels": 27,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera7_001132.png",
+      "mask": "masks/TB_Camera7_001132.png"
+    },
+    {
+      "group": "TB_Camera7_001140",
+      "split": "train",
+      "crack_pixels": 2203,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 116,
+          "right_pixels": 179,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 208,
+          "bottom_pixels": 2,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera7_001140.png",
+      "mask": "masks/TB_Camera7_001140.png"
+    },
+    {
+      "group": "TB_Camera8_000050",
+      "split": "train",
+      "crack_pixels": 1298,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 24,
+          "right_pixels": 24,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera8_000050.png",
+      "mask": "masks/TB_Camera8_000050.png"
+    },
+    {
+      "group": "TB_Camera8_000597",
+      "split": "train",
+      "crack_pixels": 1773,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 226,
+          "right_pixels": 165,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 107,
+          "bottom_pixels": 57,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera8_000597.png",
+      "mask": "masks/TB_Camera8_000597.png"
+    },
+    {
+      "group": "TB_Camera8_000846",
+      "split": "train",
+      "crack_pixels": 915,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 29,
+          "bottom_pixels": 71,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera8_000846.png",
+      "mask": "masks/TB_Camera8_000846.png"
+    },
+    {
+      "group": "TB_Camera8_000998",
+      "split": "train",
+      "crack_pixels": 3871,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 30,
+          "right_pixels": 33,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 132,
+          "right_pixels": 115,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera8_000998.png",
+      "mask": "masks/TB_Camera8_000998.png"
+    },
+    {
+      "group": "TB_Camera8_001399",
+      "split": "train",
+      "crack_pixels": 2854,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 24,
+          "right_pixels": 22,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 107,
+          "bottom_pixels": 143,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera8_001399.png",
+      "mask": "masks/TB_Camera8_001399.png"
+    },
+    {
+      "group": "TB_Camera8_001423",
+      "split": "train",
+      "crack_pixels": 986,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 37,
+          "right_pixels": 24,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera8_001423.png",
+      "mask": "masks/TB_Camera8_001423.png"
+    },
+    {
+      "group": "TB_Camera8_001977",
+      "split": "train",
+      "crack_pixels": 1294,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 61,
+          "bottom_pixels": 64,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera8_001977.png",
+      "mask": "masks/TB_Camera8_001977.png"
+    },
+    {
+      "group": "TB_Camera9_000045",
+      "split": "train",
+      "crack_pixels": 3228,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 23,
+          "right_pixels": 26,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_000045.png",
+      "mask": "masks/TB_Camera9_000045.png"
+    },
+    {
+      "group": "TB_Camera9_000355",
+      "split": "train",
+      "crack_pixels": 784,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 88,
+          "right_pixels": 88,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 29,
+          "bottom_pixels": 62,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_000355.png",
+      "mask": "masks/TB_Camera9_000355.png"
+    },
+    {
+      "group": "TB_Camera9_000409",
+      "split": "val",
+      "crack_pixels": 2311,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 19,
+          "bottom_pixels": 29,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 21,
+          "bottom_pixels": 54,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_000409.png",
+      "mask": "masks/TB_Camera9_000409.png"
+    },
+    {
+      "group": "TB_Camera9_000586",
+      "split": "train",
+      "crack_pixels": 2538,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 25,
+          "bottom_pixels": 20,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_000586.png",
+      "mask": "masks/TB_Camera9_000586.png"
+    },
+    {
+      "group": "TB_Camera9_001004",
+      "split": "train",
+      "crack_pixels": 3345,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 103,
+          "right_pixels": 215,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 13,
+          "bottom_pixels": 29,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 17,
+          "bottom_pixels": 34,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_001004.png",
+      "mask": "masks/TB_Camera9_001004.png"
+    },
+    {
+      "group": "TB_Camera9_001393",
+      "split": "train",
+      "crack_pixels": 1837,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 512,
+          "top_pixels": 31,
+          "bottom_pixels": 25,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_001393.png",
+      "mask": "masks/TB_Camera9_001393.png"
+    },
+    {
+      "group": "TB_Camera9_001643",
+      "split": "test",
+      "crack_pixels": 616,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 1536,
+          "left_pixels": 17,
+          "right_pixels": 23,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_001643.png",
+      "mask": "masks/TB_Camera9_001643.png"
+    },
+    {
+      "group": "TB_Camera9_001644",
+      "split": "val",
+      "crack_pixels": 1857,
+      "seams": [
+        {
+          "orientation": "vertical",
+          "coordinate": 512,
+          "left_pixels": 21,
+          "right_pixels": 18,
+          "nearest_axis_gap": 0
+        },
+        {
+          "orientation": "vertical",
+          "coordinate": 1024,
+          "left_pixels": 35,
+          "right_pixels": 20,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_001644.png",
+      "mask": "masks/TB_Camera9_001644.png"
+    },
+    {
+      "group": "TB_Camera9_001684",
+      "split": "test",
+      "crack_pixels": 636,
+      "seams": [
+        {
+          "orientation": "horizontal",
+          "coordinate": 1024,
+          "top_pixels": 32,
+          "bottom_pixels": 34,
+          "nearest_axis_gap": 0
+        }
+      ],
+      "image": "images/TB_Camera9_001684.png",
+      "mask": "masks/TB_Camera9_001684.png"
+    }
+  ]
+}

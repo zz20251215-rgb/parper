@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "paired_samples": 193,
+  "counts": {
+    "train": 136,
+    "val": 27,
+    "test": 30
+  },
+  "dataset_directory": "data/processed/Tunnel200 dataset",
+  "split_directory": "data/processed/Tunnel200 dataset/splits",
+  "unlabeled_images": [],
+  "exact_duplicate_images": 0,
+  "all_samples_load": true,
+  "dataset_files_unchanged_during_move": 775,
+  "retained_reviewed_files_unchanged": true,
+  "gpu_smoke_after_reorganization": {
+    "status": "PASS",
+    "launched_outside_project": true,
+    "train_steps": 3,
+    "parameters_updated": true,
+    "checkpoint_reload": true,
+    "peak_cuda_memory_mb": 1783.5341796875
+  }
+}

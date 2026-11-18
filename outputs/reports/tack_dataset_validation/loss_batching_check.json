@@ -1,0 +1,33 @@
+{
+  "same_predictions_and_labels": true,
+  "positive_images": 2,
+  "negative_images": 6,
+  "batch_size": 4,
+  "grouped_positive_result": {
+    "loss": 1.0008394718170166,
+    "dice": 0.11764705882352941,
+    "iou": 0.0625,
+    "precision": 0.0625,
+    "recall": 1.0,
+    "samples": 8,
+    "positive_images": 2,
+    "negative_images": 6,
+    "negative_false_positive_images": 6,
+    "negative_image_fp_rate": 1.0,
+    "negative_pixel_fp_rate": 1.0
+  },
+  "separated_positive_result": {
+    "loss": 1.3085317611694336,
+    "dice": 0.11764705882352941,
+    "iou": 0.0625,
+    "precision": 0.0625,
+    "recall": 1.0,
+    "samples": 8,
+    "positive_images": 2,
+    "negative_images": 6,
+    "negative_false_positive_images": 6,
+    "negative_image_fp_rate": 1.0,
+    "negative_pixel_fp_rate": 1.0
+  },
+  "conclusion": "Reported loss depends on positive-image grouping; global metrics remain invariant."
+}

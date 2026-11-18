@@ -1,0 +1,98 @@
+{
+  "pretrained_official_resnet34": true,
+  "parameters": 24436241,
+  "gpu_smoke": "PASS",
+  "warmup_frozen_encoder": true,
+  "full_unfreeze_batch4_512_backward_update": "PASS",
+  "unfreeze_test_peak_cuda_mb": 7513.376953125,
+  "validation_loss_batch_invariance": "PASS",
+  "data_splits_unchanged": true,
+  "normalization": "ImageNet inside model; RGB input0..1",
+  "smoke_metrics": {
+    "smoke": true,
+    "history": [
+      {
+        "epoch": 1,
+        "train_loss": 1.6825347741444907,
+        "train_bce_loss": 0.6949095924695333,
+        "train_dice_loss": 0.9876251816749573,
+        "encoder_learning_rate": 0.0001,
+        "encoder_frozen": true,
+        "train_steps": 3,
+        "train_samples": 12,
+        "train_positive": 6,
+        "train_negative": 6,
+        "learning_rate": 0.001,
+        "val": {
+          "loss": 1.6863448917865753,
+          "bce_loss": 0.6958290636539459,
+          "dice_loss": 0.9905158281326294,
+          "dice": 0.0031581569702093604,
+          "iou": 0.0015815759176087357,
+          "precision": 0.0015843140445011838,
+          "recall": 0.4778393351800554,
+          "samples": 8,
+          "positive_images": 4,
+          "negative_images": 4,
+          "negative_false_positive_images": 4,
+          "negative_image_fp_rate": 1.0,
+          "negative_pixel_fp_rate": 0.7279472351074219
+        },
+        "next_learning_rate": 0.001,
+        "next_encoder_learning_rate": 0.0001,
+        "epochs_without_improvement": 0,
+        "duration_seconds": 7.719862740999815
+      }
+    ],
+    "test": {
+      "loss": 1.6893903017044067,
+      "bce_loss": 0.6956843137741089,
+      "dice_loss": 0.9937059879302979,
+      "dice": 0.0024979087275769124,
+      "iou": 0.001250516201455252,
+      "precision": 0.0012516446027920408,
+      "recall": 0.581081081081081,
+      "samples": 8,
+      "positive_images": 4,
+      "negative_images": 4,
+      "negative_false_positive_images": 4,
+      "negative_image_fp_rate": 1.0,
+      "negative_pixel_fp_rate": 0.757044792175293
+    },
+    "stop_reason": "epoch_limit",
+    "parameters_updated": true,
+    "peak_cuda_memory_mb": 7059.185546875,
+    "prediction_ids": [
+      "TB_Camera3_000265_B",
+      "TB_Camera3_000265_A"
+    ]
+  },
+  "formal_run": "outputs/runs/tack_resnet34_20261115_222833",
+  "first_epoch_checkpoint_and_figures": "PASS",
+  "observed_validation": [
+    {
+      "epoch": 1,
+      "dice": 0.0,
+      "iou": 0.0,
+      "encoder_frozen": true
+    },
+    {
+      "epoch": 2,
+      "dice": 0.3314568229502067,
+      "iou": 0.1986504320111551,
+      "encoder_frozen": true
+    },
+    {
+      "epoch": 3,
+      "dice": 0.28846793953619215,
+      "iou": 0.16854369614205197,
+      "encoder_frozen": true
+    },
+    {
+      "epoch": 4,
+      "dice": 0.12690661111800872,
+      "iou": 0.06775242060608441,
+      "encoder_frozen": false
+    }
+  ]
+}

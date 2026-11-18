@@ -1,0 +1,141 @@
+{
+  "images": 1536,
+  "source_groups": 128,
+  "suffixes": {
+    "A": 128,
+    "B": 128,
+    "C": 128,
+    "D": 128,
+    "E": 128,
+    "F": 128,
+    "G": 128,
+    "H": 128,
+    "I": 128,
+    "L": 128,
+    "M": 128,
+    "N": 128
+  },
+  "group_sizes": {
+    "12": 128
+  },
+  "suffix_patterns": {
+    "ABCDEFGHILMN": 128
+  },
+  "cameras": {
+    "Camera4": 26,
+    "Camera8": 11,
+    "Camera9": 19,
+    "Camera3": 24,
+    "Camera7": 22,
+    "Camera6": 13,
+    "Camera5": 13
+  },
+  "examples": {
+    "TB_Camera3_000211": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "L",
+      "M",
+      "N"
+    ],
+    "TB_Camera3_000238": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "L",
+      "M",
+      "N"
+    ],
+    "TB_Camera3_000248": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "L",
+      "M",
+      "N"
+    ],
+    "TB_Camera3_000265": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "L",
+      "M",
+      "N"
+    ],
+    "TB_Camera3_000275": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "L",
+      "M",
+      "N"
+    ]
+  },
+  "csv_source_group_overlap": {
+    "source_group_counts_by_split": {
+      "train": 117,
+      "val": 65,
+      "test": 36
+    },
+    "source_groups_shared_by_split_pairs": {
+      "train_val": 58,
+      "train_test": 34,
+      "val_test": 21
+    }
+  },
+  "layout": [
+    [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    [
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    [
+      "I",
+      "L",
+      "M",
+      "N"
+    ]
+  ],
+  "assembled_size_width_height": [
+    2048,
+    1536
+  ]
+}

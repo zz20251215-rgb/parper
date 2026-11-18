@@ -1,0 +1,17 @@
+{
+  "run": "outputs/runs/tack_standard_20261115_214038",
+  "status": "PASS",
+  "first_epoch_duration_seconds": 68.33784451800238,
+  "strict_determinism": false,
+  "tf32": true,
+  "gradient_checks_retained_and_merged": true,
+  "csv_matches_history": true,
+  "paper_formats": [
+    "PDF",
+    "SVG",
+    "300dpi PNG"
+  ],
+  "fresh_random_initialization": true,
+  "dashboard_current_run": true,
+  "full_state_checkpoint_and_source_hashes_disabled": true
+}

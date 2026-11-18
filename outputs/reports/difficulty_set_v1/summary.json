@@ -1,0 +1,22 @@
+{
+  "rows": 449,
+  "category_counts": {
+    "edge_touch_proxy": 56,
+    "low_pixel_mass": 426,
+    "ranker_disagreement": 148,
+    "ranker_missed": 228,
+    "segmenter_low_recall": 19
+  },
+  "split_counts": {
+    "test": 156,
+    "val": 293
+  },
+  "groups": 38,
+  "contact_sheets": [
+    "contact_sheets/edge_touch_proxy.png",
+    "contact_sheets/low_pixel_mass.png",
+    "contact_sheets/ranker_disagreement.png",
+    "contact_sheets/ranker_missed.png",
+    "contact_sheets/segmenter_low_recall.png"
+  ]
+}

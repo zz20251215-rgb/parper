@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>训练看板 · Tunnel B</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="#overview"><span class="brand-mark">∿</span><span>裂纹分割<span class="brand-sub">EXPERIMENT MONITOR</span></span></a>
+    <div class="nav-label">实验工作台</div>
+    <nav aria-label="看板导航"><a class="active" href="#overview"><span>◫</span>训练概览</a><a href="#curves"><span>⌁</span>指标曲线</a><a href="#hardware"><span>▤</span>硬件监测</a><a href="#details"><span>≡</span>配置与日志</a></nav>
+    <div class="sidebar-bottom"><span class="connection-dot" id="connection-dot"></span><span id="connection-label">正在连接本地服务</span><small>每 5 秒自动刷新</small></div>
+  </aside>
+  <main>
+    <header class="page-header" id="overview"><div><div class="eyebrow">U-NET / TUNNEL B</div><h1>训练看板</h1><p class="subtitle">训练进度、分割效果与设备状态</p></div><div class="header-meta"><span id="status" class="status unknown">连接中</span><span id="updated">等待首次更新</span></div></header>
+    <div id="error-banner" class="notice error" role="alert" hidden></div>
+    <section class="run-panel panel" aria-label="训练进度"><div class="run-top"><div><div class="eyebrow">当前实验</div><h2 id="run-name">—</h2></div><span class="small muted" id="pid">PID —</span></div><div class="progress-heading"><div><strong id="epoch-progress">—</strong><span class="muted small"> 训练轮次</span></div><span class="small" id="batch-progress">等待训练进度</span></div><div class="progress-track"><div id="epoch-bar"></div></div><div class="run-foot"><span id="epoch-summary">暂无已完成轮次</span><span id="run-note">等待实验信息</span></div></section>
+    <section class="metric-grid" aria-label="验证集指标">
+      <article class="metric-card panel"><div class="metric-title">验证 Dice / F1<span class="mini-tag">主指标</span></div><strong id="dice">—</strong><div id="dice-best" class="metric-sub">最高 —</div></article>
+      <article class="metric-card panel"><div class="metric-title">验证 IoU</div><strong id="iou">—</strong><div id="iou-best" class="metric-sub">最高 —</div></article>
+      <article class="metric-card panel"><div class="metric-title">精确率 Precision</div><strong id="precision">—</strong><div id="precision-best" class="metric-sub">最高 —</div></article>
+      <article class="metric-card panel"><div class="metric-title">召回率 Recall</div><strong id="recall">—</strong><div id="recall-best" class="metric-sub">最高 —</div></article>
+    </section>
+    <section id="curves" class="chart-grid" aria-label="训练指标曲线">
+      <article class="panel chart-panel"><div class="section-heading"><div><h2>训练与验证损失</h2><p>每轮原始值 · 越低越好</p></div></div><div class="legend chart-legend" id="loss-legend"></div><div class="chart" id="loss-chart" role="img" aria-label="训练与验证损失曲线"></div></article>
+      <article class="panel chart-panel"><div class="section-heading"><div><h2>分割重合度</h2><p>验证集 Dice / IoU · 越高越好</p></div></div><div class="legend chart-legend" id="metric-legend"></div><div class="chart" id="metric-chart" role="img" aria-label="验证集 Dice 与 IoU 曲线"></div></article>
+      <article class="panel chart-panel"><div class="section-heading"><div><h2>精确率与召回率</h2><p>验证集 Precision / Recall · 越高越好</p></div></div><div class="legend chart-legend" id="pr-legend"></div><div class="chart" id="pr-chart" role="img" aria-label="验证集精确率与召回率曲线"></div></article>
+      <article class="panel chart-panel"><div class="section-heading"><div><h2>学习率调度</h2><p>参数组学习率 · 对数坐标</p></div></div><div class="legend chart-legend" id="lr-legend"></div><div class="chart" id="lr-chart" role="img" aria-label="学习率阶梯曲线，对数纵轴"></div></article>
+      <article class="panel chart-panel"><div class="section-heading"><div><h2>负样本图片误报率</h2><p>验证集 · 任一像素误报即计入 · 越低越好</p></div></div><div class="legend chart-legend" id="negative-image-legend"></div><div class="chart" id="negative-image-chart" role="img" aria-label="无裂纹图片误报率曲线"></div></article>
+      <article class="panel chart-panel"><div class="section-heading"><div><h2>负样本像素误报率</h2><p>验证集 · 与图片误报率分开计量 · 越低越好</p></div></div><div class="legend chart-legend" id="negative-pixel-legend"></div><div class="chart" id="negative-pixel-chart" role="img" aria-label="无裂纹图片中的像素误报率曲线"></div></article>
+    </section>
+    <section id="hardware"><div class="section-title"><div><h2>硬件监测</h2><p id="gpu-name">等待设备信息</p></div><span class="small muted" id="sensor-updated">—</span></div>
+      <div class="hardware-grid">
+        <article class="panel hardware-card"><div class="metric-title">GPU 显存（整卡）</div><strong id="gpu-memory">—</strong><div class="usage-track"><div id="gpu-memory-bar"></div></div><div class="hardware-meta"><span id="gpu-memory-total">总量 —</span><span id="gpu-util">利用率 —</span></div></article>
+        <article class="panel hardware-card"><div class="metric-title">系统内存</div><strong id="ram-memory">—</strong><div class="usage-track"><div id="ram-memory-bar"></div></div><div class="hardware-meta"><span id="ram-total">总量 —</span><span id="process-memory">训练进程 —</span></div></article>
+        <article class="panel hardware-card"><div class="metric-title">GPU 温度</div><strong id="gpu-temperature">—</strong><div class="temperature-foot"><span class="sensor-dot"></span><span id="gpu-power">功耗 —</span></div><div class="hardware-meta">由显卡传感器读取</div></article>
+        <article class="panel hardware-card"><div class="metric-title">CPU 温度</div><strong id="cpu-temperature">—</strong><div class="temperature-foot"><span class="sensor-dot"></span><span id="cpu-util">CPU 利用率 —</span></div><div class="hardware-meta">由 CPU 温度传感器读取</div></article>
+      </div>
+      <article class="panel chart-panel resource-panel"><div class="section-heading"><div><h2>设备趋势</h2><p>监测启动后记录，不回填历史数据</p></div><label class="select-label">查看<select id="resource-mode" aria-label="选择设备趋势指标"><option value="memory">显存与内存</option><option value="temperature">GPU / CPU 温度</option><option value="utilization">GPU / CPU 利用率</option></select></label></div><div class="legend" id="resource-legend"></div><div class="chart" id="resource-chart" role="img" aria-label="设备资源历史曲线"></div><div id="sensor-errors" class="sensor-errors" hidden></div></article>
+    </section>
+    <section id="details" class="details-grid">
+      <article class="panel config-panel"><div class="section-heading"><div><h2>训练配置</h2><p>本次实验实际记录</p></div></div><dl id="config-list" class="config-list"></dl><div id="repro-note" class="notice warning">等待复现记录</div></article>
+      <article class="panel data-panel"><div class="section-heading"><div><h2>数据与误报</h2><p>源图分组划分 · 裂纹 / 非裂纹</p></div></div><div class="split-table-wrap"><table><thead><tr><th>集合</th><th>图片</th><th>含裂纹</th><th>无裂纹</th></tr></thead><tbody id="split-table"></tbody></table></div><div class="negative-stats"><div><span>验证负样本图片误报率</span><strong id="negative-image-fp">—</strong></div><div><span>验证负样本像素误报率</span><strong id="negative-pixel-fp">—</strong></div></div><p class="footnote">无裂纹图片中预测出任一裂纹像素，即计为该图片误报。以最终测试结果判断模型效果。</p></article>
+    </section>
+    <section class="panel log-panel"><div class="section-heading"><div><h2>训练日志</h2><p>最近 20 行</p></div><span class="log-indicator" id="log-status">等待日志</span></div><pre id="log-content" tabindex="0">暂无日志</pre></section>
+    <footer>本地训练监测 <span>仅显示已记录的真实数据；暂停时进程仍可能保留显存。</span></footer>
+  </main>
+</body>
+</html>

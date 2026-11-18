@@ -1,0 +1,140 @@
+{
+  "checkpoint_epoch": 3,
+  "sample_count": 12,
+  "model_parameters_finite": true,
+  "sample_probability_records": [
+    {
+      "id": "TB_Camera3_000211_I",
+      "has_crack": true,
+      "crack_pixels": 1714,
+      "probability_max": 0.19771823287010193,
+      "probability_mean": 0.009238253347575665,
+      "mean_on_crack": 0.010887852869927883,
+      "mean_on_background": 0.009227395057678223,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_L",
+      "has_crack": true,
+      "crack_pixels": 2711,
+      "probability_max": 0.13163164258003235,
+      "probability_mean": 0.0006020383443683386,
+      "mean_on_crack": 0.006471586879342794,
+      "mean_on_background": 0.0005407031858339906,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_M",
+      "has_crack": true,
+      "crack_pixels": 101,
+      "probability_max": 0.11627795547246933,
+      "probability_mean": 0.0007006457890383899,
+      "mean_on_crack": 0.0019265032606199384,
+      "mean_on_background": 0.0007001732592470944,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_N",
+      "has_crack": true,
+      "crack_pixels": 528,
+      "probability_max": 0.09759152680635452,
+      "probability_mean": 0.00019949089619331062,
+      "mean_on_crack": 0.0006476831622421741,
+      "mean_on_background": 0.00019858636369463056,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_001236_B",
+      "has_crack": true,
+      "crack_pixels": 1485,
+      "probability_max": 0.21643684804439545,
+      "probability_mean": 0.00684235617518425,
+      "mean_on_crack": 0.006114755291491747,
+      "mean_on_background": 0.006846501957625151,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_001236_F",
+      "has_crack": true,
+      "crack_pixels": 551,
+      "probability_max": 0.12887117266654968,
+      "probability_mean": 0.0015010973438620567,
+      "mean_on_crack": 0.00030777096981182694,
+      "mean_on_background": 0.0015036107506603003,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_A",
+      "has_crack": false,
+      "crack_pixels": 0,
+      "probability_max": 0.2040969282388687,
+      "probability_mean": 0.018001146614551544,
+      "mean_on_crack": null,
+      "mean_on_background": 0.018001146614551544,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_B",
+      "has_crack": false,
+      "crack_pixels": 0,
+      "probability_max": 0.21596165001392365,
+      "probability_mean": 0.0059975311160087585,
+      "mean_on_crack": null,
+      "mean_on_background": 0.0059975311160087585,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_C",
+      "has_crack": false,
+      "crack_pixels": 0,
+      "probability_max": 0.20536869764328003,
+      "probability_mean": 0.0057721929624676704,
+      "mean_on_crack": null,
+      "mean_on_background": 0.0057721929624676704,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_D",
+      "has_crack": false,
+      "crack_pixels": 0,
+      "probability_max": 0.17895010113716125,
+      "probability_mean": 0.003184517379850149,
+      "mean_on_crack": null,
+      "mean_on_background": 0.003184517379850149,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_E",
+      "has_crack": false,
+      "crack_pixels": 0,
+      "probability_max": 0.22315749526023865,
+      "probability_mean": 0.007032381370663643,
+      "mean_on_crack": null,
+      "mean_on_background": 0.007032381370663643,
+      "pixels_above_0_5": 0
+    },
+    {
+      "id": "TB_Camera3_000211_F",
+      "has_crack": false,
+      "crack_pixels": 0,
+      "probability_max": 0.11239966005086899,
+      "probability_mean": 0.0004379883757792413,
+      "mean_on_crack": null,
+      "mean_on_background": 0.0004379883757792413,
+      "pixels_above_0_5": 0
+    }
+  ],
+  "gradient_on_positive_example": {
+    "id": "TB_Camera3_000211_I",
+    "bce": 0.039663732051849365,
+    "dice_loss": 0.9907358288764954,
+    "bce_gradient_mean_on_crack": -3.7731638258264866e-06,
+    "dice_gradient_mean_on_crack": -5.168516054254724e-06,
+    "bce_gradient_mean_on_background": 3.5199718695366755e-08,
+    "dice_gradient_mean_on_background": 2.031019619153085e-08
+  },
+  "positive_training_image_mean_crack_pixel_fraction": 0.004870803988709742,
+  "expected_crack_pixel_fraction_under_balanced_image_sampling": 0.002435401994354871,
+  "training_modified": false,
+  "inference_device": "CPU to avoid GPU memory contention"
+}

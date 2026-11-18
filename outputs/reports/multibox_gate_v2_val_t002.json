@@ -1,0 +1,160 @@
+{
+  "candidate_threshold": 0.02,
+  "nms_threshold": 0.4,
+  "expansion": 1.5,
+  "mean_candidates": 2.76,
+  "positive_frame_recall": 0.0,
+  "mean_box_iou_coverage": 0.002441985660800256,
+  "frames": [
+    {
+      "group": "TB_Camera3_000211",
+      "truth_boxes": 5,
+      "candidates": 3,
+      "coverage": 0.0019368338283166264
+    },
+    {
+      "group": "TB_Camera3_000275",
+      "truth_boxes": 0,
+      "candidates": 3,
+      "coverage": 0.0
+    },
+    {
+      "group": "TB_Camera3_001236",
+      "truth_boxes": 15,
+      "candidates": 2,
+      "coverage": 0.00037806985732908075
+    },
+    {
+      "group": "TB_Camera3_001738",
+      "truth_boxes": 10,
+      "candidates": 2,
+      "coverage": 0.0016224444971319999
+    },
+    {
+      "group": "TB_Camera4_000035",
+      "truth_boxes": 4,
+      "candidates": 3,
+      "coverage": 0.04476613114174335
+    },
+    {
+      "group": "TB_Camera4_000337",
+      "truth_boxes": 4,
+      "candidates": 3,
+      "coverage": 0.0007349215460304562
+    },
+    {
+      "group": "TB_Camera4_000662",
+      "truth_boxes": 2,
+      "candidates": 4,
+      "coverage": 0.02869174685098549
+    },
+    {
+      "group": "TB_Camera5_000766",
+      "truth_boxes": 4,
+      "candidates": 3,
+      "coverage": 0.0014709647116867431
+    },
+    {
+      "group": "TB_Camera5_000850",
+      "truth_boxes": 5,
+      "candidates": 3,
+      "coverage": 0.0006170247388962813
+    },
+    {
+      "group": "TB_Camera5_001143",
+      "truth_boxes": 0,
+      "candidates": 3,
+      "coverage": 0.0
+    },
+    {
+      "group": "TB_Camera6_000020",
+      "truth_boxes": 10,
+      "candidates": 2,
+      "coverage": 0.00047016442344470353
+    },
+    {
+      "group": "TB_Camera6_001639",
+      "truth_boxes": 0,
+      "candidates": 3,
+      "coverage": 0.0
+    },
+    {
+      "group": "TB_Camera6_001966",
+      "truth_boxes": 3,
+      "candidates": 4,
+      "coverage": 0.00030081505861013396
+    },
+    {
+      "group": "TB_Camera7_000298",
+      "truth_boxes": 2,
+      "candidates": 2,
+      "coverage": 0.0032084001112884218
+    },
+    {
+      "group": "TB_Camera7_000673",
+      "truth_boxes": 6,
+      "candidates": 2,
+      "coverage": 0.0007940311772447377
+    },
+    {
+      "group": "TB_Camera7_001095",
+      "truth_boxes": 3,
+      "candidates": 4,
+      "coverage": 0.0001753439100464309
+    },
+    {
+      "group": "TB_Camera7_001128",
+      "truth_boxes": 3,
+      "candidates": 3,
+      "coverage": 0.0005475146612015819
+    },
+    {
+      "group": "TB_Camera8_000369",
+      "truth_boxes": 6,
+      "candidates": 3,
+      "coverage": 0.00029632570877872636
+    },
+    {
+      "group": "TB_Camera9_000074",
+      "truth_boxes": 5,
+      "candidates": 2,
+      "coverage": 0.0006839706344531366
+    },
+    {
+      "group": "TB_Camera9_000356",
+      "truth_boxes": 0,
+      "candidates": 4,
+      "coverage": 0.0
+    },
+    {
+      "group": "TB_Camera9_000398",
+      "truth_boxes": 2,
+      "candidates": 4,
+      "coverage": 0.001200396585670239
+    },
+    {
+      "group": "TB_Camera9_000409",
+      "truth_boxes": 25,
+      "candidates": 2,
+      "coverage": 0.00012064148672293022
+    },
+    {
+      "group": "TB_Camera9_001327",
+      "truth_boxes": 5,
+      "candidates": 1,
+      "coverage": 0.0003925515167790979
+    },
+    {
+      "group": "TB_Camera9_001402",
+      "truth_boxes": 0,
+      "candidates": 3,
+      "coverage": 0.0
+    },
+    {
+      "group": "TB_Camera9_001644",
+      "truth_boxes": 11,
+      "candidates": 1,
+      "coverage": 0.0005446126525986768
+    }
+  ]
+}

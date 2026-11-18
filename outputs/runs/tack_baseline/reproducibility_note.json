@@ -1,0 +1,10 @@
+{
+  "status": "legacy_run_partial_records",
+  "captured_at": "2026-11-15T20:54:47.676604+08:00",
+  "message": "该运行启动时未启用确定性算法，也未保存优化器和随机状态；当前源码快照在暂停后采集，不能视为启动时完整快照。现有最佳权重和指标仍保留。新启动的运行将启用完整复现记录。",
+  "paused_pid": 35695,
+  "completed_epochs_at_pause": 7,
+  "source_snapshot": "source_at_pause",
+  "deterministic_at_start": false,
+  "full_checkpoint_available": false
+}

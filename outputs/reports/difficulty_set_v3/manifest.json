@@ -1,0 +1,1640 @@
+{
+  "version": 1,
+  "source_analysis": "/home/zz/Desktop/Parper/outputs/reports/tile_difficulty_analysis.json",
+  "frames_manifest": "/home/zz/Desktop/Parper/data/processed/TACK_Tunnel_B/full_frames/manifest.json",
+  "selection_policy": {
+    "low_pixel_mass": "positive tile with <=1000 crack pixels",
+    "edge_touch_proxy": "positive pixels touch an 8-pixel tile edge band",
+    "ranker_missed": "positive tile not selected by original grid top-6 ranker",
+    "segmenter_low_recall": "selected tile with effective recall <0.30",
+    "ranker_disagreement": "original and context rankers disagree on top-6 selection",
+    "cross_tile_proxy": "annotation pixels appear on both sides of a fixed seam within the review band"
+  },
+  "rows": [
+    {
+      "split": "test",
+      "group": "TB_Camera9_001643",
+      "tile": "M",
+      "pixels": 453,
+      "edge_touch": true,
+      "border_pixels": 86,
+      "selected_grid": true,
+      "selected_context": false,
+      "tp": 75,
+      "fp": 387,
+      "fn": 378,
+      "dice": 0.16393442622950818,
+      "recall": 0.16556291390728478,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera9_001643.png",
+      "source_mask": "masks/TB_Camera9_001643.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera9_001684",
+      "tile": "H",
+      "pixels": 68,
+      "edge_touch": true,
+      "border_pixels": 100,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 0,
+      "fp": 0,
+      "fn": 68,
+      "dice": 0.0,
+      "recall": 0.0,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera9_001684.png",
+      "source_mask": "masks/TB_Camera9_001684.png",
+      "tile_xy": [
+        3,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera9_001684",
+      "tile": "N",
+      "pixels": 568,
+      "edge_touch": true,
+      "border_pixels": 200,
+      "selected_grid": false,
+      "selected_context": false,
+      "tp": 14,
+      "fp": 0,
+      "fn": 554,
+      "dice": 0.048109965635738834,
+      "recall": 0.02464788732394366,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_missed"
+      ],
+      "source_image": "images/TB_Camera9_001684.png",
+      "source_mask": "masks/TB_Camera9_001684.png",
+      "tile_xy": [
+        3,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera7_000770",
+      "tile": "D",
+      "pixels": 570,
+      "edge_touch": true,
+      "border_pixels": 541,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 70,
+      "fp": 371,
+      "fn": 500,
+      "dice": 0.13847675568743817,
+      "recall": 0.12280701754385964,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera7_000770.png",
+      "source_mask": "masks/TB_Camera7_000770.png",
+      "tile_xy": [
+        3,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_001237",
+      "tile": "I",
+      "pixels": 647,
+      "edge_touch": true,
+      "border_pixels": 16,
+      "selected_grid": true,
+      "selected_context": false,
+      "tp": 422,
+      "fp": 222,
+      "fn": 225,
+      "dice": 0.6537567776917118,
+      "recall": 0.652241112828439,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera4_001237.png",
+      "source_mask": "masks/TB_Camera4_001237.png",
+      "tile_xy": [
+        0,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_001237",
+      "tile": "A",
+      "pixels": 961,
+      "edge_touch": true,
+      "border_pixels": 19,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 278,
+      "fp": 167,
+      "fn": 683,
+      "dice": 0.39544807965860596,
+      "recall": 0.2892819979188345,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera4_001237.png",
+      "source_mask": "masks/TB_Camera4_001237.png",
+      "tile_xy": [
+        0,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera9_001643",
+      "tile": "N",
+      "pixels": 163,
+      "edge_touch": true,
+      "border_pixels": 23,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 107,
+      "fp": 856,
+      "fn": 56,
+      "dice": 0.19005328596802842,
+      "recall": 0.656441717791411,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera9_001643.png",
+      "source_mask": "masks/TB_Camera9_001643.png",
+      "tile_xy": [
+        3,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera3_001322",
+      "tile": "C",
+      "pixels": 351,
+      "edge_touch": true,
+      "border_pixels": 27,
+      "selected_grid": false,
+      "selected_context": false,
+      "tp": 265,
+      "fp": 571,
+      "fn": 86,
+      "dice": 0.44650379106992416,
+      "recall": 0.7549857549857549,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "ranker_missed"
+      ],
+      "source_image": "images/TB_Camera3_001322.png",
+      "source_mask": "masks/TB_Camera3_001322.png",
+      "tile_xy": [
+        2,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera6_001520",
+      "tile": "N",
+      "pixels": 413,
+      "edge_touch": true,
+      "border_pixels": 18,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 53,
+      "fp": 1143,
+      "fn": 360,
+      "dice": 0.06587942821628341,
+      "recall": 0.12832929782082325,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera6_001520.png",
+      "source_mask": "masks/TB_Camera6_001520.png",
+      "tile_xy": [
+        3,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera3_000265",
+      "tile": "F",
+      "pixels": 633,
+      "edge_touch": true,
+      "border_pixels": 40,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 236,
+      "fp": 735,
+      "fn": 397,
+      "dice": 0.2942643391521197,
+      "recall": 0.37282780410742494,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera3_000265.png",
+      "source_mask": "masks/TB_Camera3_000265.png",
+      "tile_xy": [
+        1,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_000850",
+      "tile": "I",
+      "pixels": 720,
+      "edge_touch": true,
+      "border_pixels": 52,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 680,
+      "fp": 1116,
+      "fn": 40,
+      "dice": 0.5405405405405406,
+      "recall": 0.9444444444444444,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000850.png",
+      "source_mask": "masks/TB_Camera4_000850.png",
+      "tile_xy": [
+        0,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera3_000265",
+      "tile": "B",
+      "pixels": 725,
+      "edge_touch": true,
+      "border_pixels": 25,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 469,
+      "fp": 153,
+      "fn": 256,
+      "dice": 0.696362286562732,
+      "recall": 0.646896551724138,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera3_000265.png",
+      "source_mask": "masks/TB_Camera3_000265.png",
+      "tile_xy": [
+        1,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_000850",
+      "tile": "E",
+      "pixels": 891,
+      "edge_touch": true,
+      "border_pixels": 30,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 845,
+      "fp": 1015,
+      "fn": 46,
+      "dice": 0.6143220647037441,
+      "recall": 0.9483726150392817,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000850.png",
+      "source_mask": "masks/TB_Camera4_000850.png",
+      "tile_xy": [
+        0,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera9_000397",
+      "tile": "M",
+      "pixels": 977,
+      "edge_touch": true,
+      "border_pixels": 38,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 468,
+      "fp": 305,
+      "fn": 509,
+      "dice": 0.5348571428571428,
+      "recall": 0.4790174002047083,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy"
+      ],
+      "source_image": "images/TB_Camera9_000397.png",
+      "source_mask": "masks/TB_Camera9_000397.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_001237",
+      "tile": "E",
+      "pixels": 1592,
+      "edge_touch": true,
+      "border_pixels": 24,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 1057,
+      "fp": 1166,
+      "fn": 535,
+      "dice": 0.5541284403669725,
+      "recall": 0.6639447236180904,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_001237.png",
+      "source_mask": "masks/TB_Camera4_001237.png",
+      "tile_xy": [
+        0,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera3_001658",
+      "tile": "L",
+      "pixels": 1621,
+      "edge_touch": true,
+      "border_pixels": 249,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 989,
+      "fp": 102,
+      "fn": 632,
+      "dice": 0.7293510324483776,
+      "recall": 0.6101172115977791,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera3_001658.png",
+      "source_mask": "masks/TB_Camera3_001658.png",
+      "tile_xy": [
+        1,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_000628",
+      "tile": "A",
+      "pixels": 1684,
+      "edge_touch": true,
+      "border_pixels": 28,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 624,
+      "fp": 299,
+      "fn": 1060,
+      "dice": 0.47871116225546606,
+      "recall": 0.37054631828978624,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000628.png",
+      "source_mask": "masks/TB_Camera4_000628.png",
+      "tile_xy": [
+        0,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_000628",
+      "tile": "D",
+      "pixels": 1817,
+      "edge_touch": true,
+      "border_pixels": 84,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 560,
+      "fp": 339,
+      "fn": 1257,
+      "dice": 0.41237113402061853,
+      "recall": 0.3082003302146395,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000628.png",
+      "source_mask": "masks/TB_Camera4_000628.png",
+      "tile_xy": [
+        3,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera7_000770",
+      "tile": "C",
+      "pixels": 1970,
+      "edge_touch": true,
+      "border_pixels": 473,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 1060,
+      "fp": 2178,
+      "fn": 910,
+      "dice": 0.40706605222734255,
+      "recall": 0.5380710659898477,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera7_000770.png",
+      "source_mask": "masks/TB_Camera7_000770.png",
+      "tile_xy": [
+        2,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera3_001658",
+      "tile": "M",
+      "pixels": 2556,
+      "edge_touch": true,
+      "border_pixels": 53,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 909,
+      "fp": 108,
+      "fn": 1647,
+      "dice": 0.5088161209068011,
+      "recall": 0.35563380281690143,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera3_001658.png",
+      "source_mask": "masks/TB_Camera3_001658.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_000628",
+      "tile": "C",
+      "pixels": 3520,
+      "edge_touch": true,
+      "border_pixels": 161,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 1800,
+      "fp": 1478,
+      "fn": 1720,
+      "dice": 0.529567519858782,
+      "recall": 0.5113636363636364,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000628.png",
+      "source_mask": "masks/TB_Camera4_000628.png",
+      "tile_xy": [
+        2,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera4_000628",
+      "tile": "B",
+      "pixels": 4348,
+      "edge_touch": true,
+      "border_pixels": 81,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 2047,
+      "fp": 1796,
+      "fn": 2301,
+      "dice": 0.4998168721767794,
+      "recall": 0.47079116835326584,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000628.png",
+      "source_mask": "masks/TB_Camera4_000628.png",
+      "tile_xy": [
+        1,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera9_000903",
+      "tile": "B",
+      "pixels": 333,
+      "edge_touch": false,
+      "border_pixels": 0,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 296,
+      "fp": 547,
+      "fn": 37,
+      "dice": 0.5034013605442177,
+      "recall": 0.8888888888888888,
+      "labels": [
+        "low_pixel_mass"
+      ],
+      "source_image": "images/TB_Camera9_000903.png",
+      "source_mask": "masks/TB_Camera9_000903.png",
+      "tile_xy": [
+        1,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "test",
+      "group": "TB_Camera7_001292",
+      "tile": "M",
+      "pixels": 1026,
+      "edge_touch": true,
+      "border_pixels": 77,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 786,
+      "fp": 411,
+      "fn": 240,
+      "dice": 0.7071524966261808,
+      "recall": 0.7660818713450293,
+      "labels": [
+        "edge_touch_proxy"
+      ],
+      "source_image": "images/TB_Camera7_001292.png",
+      "source_mask": "masks/TB_Camera7_001292.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_001644",
+      "tile": "A",
+      "pixels": 203,
+      "edge_touch": true,
+      "border_pixels": 21,
+      "selected_grid": false,
+      "selected_context": true,
+      "tp": 171,
+      "fp": 640,
+      "fn": 32,
+      "dice": 0.33727810650887574,
+      "recall": 0.8423645320197044,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_missed",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera9_001644.png",
+      "source_mask": "masks/TB_Camera9_001644.png",
+      "tile_xy": [
+        0,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_001738",
+      "tile": "M",
+      "pixels": 339,
+      "edge_touch": true,
+      "border_pixels": 167,
+      "selected_grid": false,
+      "selected_context": true,
+      "tp": 0,
+      "fp": 5,
+      "fn": 339,
+      "dice": 0.0,
+      "recall": 0.0,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_missed",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera3_001738.png",
+      "source_mask": "masks/TB_Camera3_001738.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_000211",
+      "tile": "N",
+      "pixels": 528,
+      "edge_touch": true,
+      "border_pixels": 28,
+      "selected_grid": false,
+      "selected_context": true,
+      "tp": 191,
+      "fp": 211,
+      "fn": 337,
+      "dice": 0.410752688172043,
+      "recall": 0.36174242424242425,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_missed",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera3_000211.png",
+      "source_mask": "masks/TB_Camera3_000211.png",
+      "tile_xy": [
+        3,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_001644",
+      "tile": "C",
+      "pixels": 665,
+      "edge_touch": true,
+      "border_pixels": 20,
+      "selected_grid": true,
+      "selected_context": false,
+      "tp": 126,
+      "fp": 113,
+      "fn": 539,
+      "dice": 0.27876106194690264,
+      "recall": 0.18947368421052632,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera9_001644.png",
+      "source_mask": "masks/TB_Camera9_001644.png",
+      "tile_xy": [
+        2,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera6_000020",
+      "tile": "H",
+      "pixels": 780,
+      "edge_touch": true,
+      "border_pixels": 62,
+      "selected_grid": false,
+      "selected_context": true,
+      "tp": 467,
+      "fp": 139,
+      "fn": 313,
+      "dice": 0.6738816738816739,
+      "recall": 0.5987179487179487,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_missed",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera6_000020.png",
+      "source_mask": "masks/TB_Camera6_000020.png",
+      "tile_xy": [
+        3,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_000211",
+      "tile": "M",
+      "pixels": 101,
+      "edge_touch": true,
+      "border_pixels": 24,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 0,
+      "fp": 44,
+      "fn": 101,
+      "dice": 0.0,
+      "recall": 0.0,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera3_000211.png",
+      "source_mask": "masks/TB_Camera3_000211.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_001738",
+      "tile": "G",
+      "pixels": 485,
+      "edge_touch": true,
+      "border_pixels": 124,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 85,
+      "fp": 355,
+      "fn": 400,
+      "dice": 0.1837837837837838,
+      "recall": 0.17525773195876287,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera3_001738.png",
+      "source_mask": "masks/TB_Camera3_001738.png",
+      "tile_xy": [
+        2,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera6_000020",
+      "tile": "E",
+      "pixels": 520,
+      "edge_touch": true,
+      "border_pixels": 150,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 0,
+      "fp": 109,
+      "fn": 520,
+      "dice": 0.0,
+      "recall": 0.0,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera6_000020.png",
+      "source_mask": "masks/TB_Camera6_000020.png",
+      "tile_xy": [
+        0,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera6_000020",
+      "tile": "I",
+      "pixels": 708,
+      "edge_touch": true,
+      "border_pixels": 104,
+      "selected_grid": false,
+      "selected_context": false,
+      "tp": 0,
+      "fp": 0,
+      "fn": 708,
+      "dice": 0.0,
+      "recall": 0.0,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_missed"
+      ],
+      "source_image": "images/TB_Camera6_000020.png",
+      "source_mask": "masks/TB_Camera6_000020.png",
+      "tile_xy": [
+        0,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera6_000020",
+      "tile": "F",
+      "pixels": 715,
+      "edge_touch": true,
+      "border_pixels": 188,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 117,
+      "fp": 109,
+      "fn": 598,
+      "dice": 0.24867162592986186,
+      "recall": 0.16363636363636364,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera6_000020.png",
+      "source_mask": "masks/TB_Camera6_000020.png",
+      "tile_xy": [
+        1,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_000409",
+      "tile": "M",
+      "pixels": 916,
+      "edge_touch": true,
+      "border_pixels": 54,
+      "selected_grid": true,
+      "selected_context": false,
+      "tp": 559,
+      "fp": 587,
+      "fn": 357,
+      "dice": 0.542192046556741,
+      "recall": 0.6102620087336245,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera9_000409.png",
+      "source_mask": "masks/TB_Camera9_000409.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_000409",
+      "tile": "H",
+      "pixels": 955,
+      "edge_touch": true,
+      "border_pixels": 29,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 238,
+      "fp": 595,
+      "fn": 717,
+      "dice": 0.2662192393736018,
+      "recall": 0.24921465968586387,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera9_000409.png",
+      "source_mask": "masks/TB_Camera9_000409.png",
+      "tile_xy": [
+        3,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_001738",
+      "tile": "I",
+      "pixels": 1306,
+      "edge_touch": true,
+      "border_pixels": 27,
+      "selected_grid": true,
+      "selected_context": false,
+      "tp": 361,
+      "fp": 252,
+      "fn": 945,
+      "dice": 0.37623762376237624,
+      "recall": 0.276416539050536,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera3_001738.png",
+      "source_mask": "masks/TB_Camera3_001738.png",
+      "tile_xy": [
+        0,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_000409",
+      "tile": "G",
+      "pixels": 57,
+      "edge_touch": true,
+      "border_pixels": 21,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 57,
+      "fp": 95,
+      "fn": 0,
+      "dice": 0.5454545454545454,
+      "recall": 1.0,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera9_000409.png",
+      "source_mask": "masks/TB_Camera9_000409.png",
+      "tile_xy": [
+        2,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_000409",
+      "tile": "D",
+      "pixels": 383,
+      "edge_touch": true,
+      "border_pixels": 19,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 269,
+      "fp": 948,
+      "fn": 114,
+      "dice": 0.33625,
+      "recall": 0.7023498694516971,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera9_000409.png",
+      "source_mask": "masks/TB_Camera9_000409.png",
+      "tile_xy": [
+        3,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_001236",
+      "tile": "F",
+      "pixels": 551,
+      "edge_touch": true,
+      "border_pixels": 6,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 37,
+      "fp": 114,
+      "fn": 514,
+      "dice": 0.10541310541310542,
+      "recall": 0.06715063520871144,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera3_001236.png",
+      "source_mask": "masks/TB_Camera3_001236.png",
+      "tile_xy": [
+        1,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_001738",
+      "tile": "L",
+      "pixels": 917,
+      "edge_touch": true,
+      "border_pixels": 43,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 552,
+      "fp": 459,
+      "fn": 365,
+      "dice": 0.5726141078838174,
+      "recall": 0.6019629225736096,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera3_001738.png",
+      "source_mask": "masks/TB_Camera3_001738.png",
+      "tile_xy": [
+        1,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_001644",
+      "tile": "B",
+      "pixels": 989,
+      "edge_touch": true,
+      "border_pixels": 53,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 329,
+      "fp": 910,
+      "fn": 660,
+      "dice": 0.29533213644524237,
+      "recall": 0.3326592517694641,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera9_001644.png",
+      "source_mask": "masks/TB_Camera9_001644.png",
+      "tile_xy": [
+        1,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000035",
+      "tile": "D",
+      "pixels": 1029,
+      "edge_touch": true,
+      "border_pixels": 114,
+      "selected_grid": false,
+      "selected_context": false,
+      "tp": 0,
+      "fp": 2930,
+      "fn": 1029,
+      "dice": 0.0,
+      "recall": 0.0,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_missed"
+      ],
+      "source_image": "images/TB_Camera4_000035.png",
+      "source_mask": "masks/TB_Camera4_000035.png",
+      "tile_xy": [
+        3,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_000211",
+      "tile": "I",
+      "pixels": 1714,
+      "edge_touch": true,
+      "border_pixels": 53,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 0,
+      "fp": 0,
+      "fn": 1714,
+      "dice": 0.0,
+      "recall": 0.0,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera3_000211.png",
+      "source_mask": "masks/TB_Camera3_000211.png",
+      "tile_xy": [
+        0,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000662",
+      "tile": "A",
+      "pixels": 1992,
+      "edge_touch": true,
+      "border_pixels": 140,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 545,
+      "fp": 66,
+      "fn": 1447,
+      "dice": 0.4187475989243181,
+      "recall": 0.2735943775100402,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera4_000662.png",
+      "source_mask": "masks/TB_Camera4_000662.png",
+      "tile_xy": [
+        0,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000662",
+      "tile": "B",
+      "pixels": 9579,
+      "edge_touch": true,
+      "border_pixels": 238,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 2853,
+      "fp": 92,
+      "fn": 6726,
+      "dice": 0.45560523794314917,
+      "recall": 0.29783902286251174,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera4_000662.png",
+      "source_mask": "masks/TB_Camera4_000662.png",
+      "tile_xy": [
+        1,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000035",
+      "tile": "C",
+      "pixels": 19238,
+      "edge_touch": true,
+      "border_pixels": 419,
+      "selected_grid": true,
+      "selected_context": false,
+      "tp": 13066,
+      "fp": 2786,
+      "fn": 6172,
+      "dice": 0.744713593616415,
+      "recall": 0.6791766295872752,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy",
+        "ranker_disagreement"
+      ],
+      "source_image": "images/TB_Camera4_000035.png",
+      "source_mask": "masks/TB_Camera4_000035.png",
+      "tile_xy": [
+        2,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_000398",
+      "tile": "C",
+      "pixels": 438,
+      "edge_touch": true,
+      "border_pixels": 22,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 436,
+      "fp": 3943,
+      "fn": 2,
+      "dice": 0.181025534565082,
+      "recall": 0.9954337899543378,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy"
+      ],
+      "source_image": "images/TB_Camera9_000398.png",
+      "source_mask": "masks/TB_Camera9_000398.png",
+      "tile_xy": [
+        2,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera7_001095",
+      "tile": "M",
+      "pixels": 505,
+      "edge_touch": true,
+      "border_pixels": 33,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 314,
+      "fp": 202,
+      "fn": 191,
+      "dice": 0.6150832517140059,
+      "recall": 0.6217821782178218,
+      "labels": [
+        "low_pixel_mass",
+        "edge_touch_proxy"
+      ],
+      "source_image": "images/TB_Camera7_001095.png",
+      "source_mask": "masks/TB_Camera7_001095.png",
+      "tile_xy": [
+        2,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_001327",
+      "tile": "I",
+      "pixels": 543,
+      "edge_touch": false,
+      "border_pixels": 0,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 50,
+      "fp": 0,
+      "fn": 493,
+      "dice": 0.16863406408094436,
+      "recall": 0.09208103130755065,
+      "labels": [
+        "low_pixel_mass",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera9_001327.png",
+      "source_mask": "masks/TB_Camera9_001327.png",
+      "tile_xy": [
+        0,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera8_000369",
+      "tile": "G",
+      "pixels": 756,
+      "edge_touch": false,
+      "border_pixels": 0,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 173,
+      "fp": 113,
+      "fn": 583,
+      "dice": 0.33205374280230326,
+      "recall": 0.22883597883597884,
+      "labels": [
+        "low_pixel_mass",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera8_000369.png",
+      "source_mask": "masks/TB_Camera8_000369.png",
+      "tile_xy": [
+        2,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera9_000074",
+      "tile": "N",
+      "pixels": 1260,
+      "edge_touch": true,
+      "border_pixels": 19,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 162,
+      "fp": 170,
+      "fn": 1098,
+      "dice": 0.20351758793969849,
+      "recall": 0.12857142857142856,
+      "labels": [
+        "edge_touch_proxy",
+        "segmenter_low_recall"
+      ],
+      "source_image": "images/TB_Camera9_000074.png",
+      "source_mask": "masks/TB_Camera9_000074.png",
+      "tile_xy": [
+        3,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_000211",
+      "tile": "L",
+      "pixels": 2711,
+      "edge_touch": true,
+      "border_pixels": 45,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 1861,
+      "fp": 866,
+      "fn": 850,
+      "dice": 0.6844428098565649,
+      "recall": 0.6864625599409812,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera3_000211.png",
+      "source_mask": "masks/TB_Camera3_000211.png",
+      "tile_xy": [
+        1,
+        2
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000662",
+      "tile": "D",
+      "pixels": 4369,
+      "edge_touch": true,
+      "border_pixels": 261,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 1703,
+      "fp": 47,
+      "fn": 2666,
+      "dice": 0.5566268998202321,
+      "recall": 0.3897917143511101,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000662.png",
+      "source_mask": "masks/TB_Camera4_000662.png",
+      "tile_xy": [
+        3,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000662",
+      "tile": "C",
+      "pixels": 7055,
+      "edge_touch": true,
+      "border_pixels": 246,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 4578,
+      "fp": 127,
+      "fn": 2477,
+      "dice": 0.7785714285714286,
+      "recall": 0.6489014883061658,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000662.png",
+      "source_mask": "masks/TB_Camera4_000662.png",
+      "tile_xy": [
+        2,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000035",
+      "tile": "B",
+      "pixels": 10044,
+      "edge_touch": true,
+      "border_pixels": 356,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 6338,
+      "fp": 2333,
+      "fn": 3706,
+      "dice": 0.6773176596313117,
+      "recall": 0.6310234966148944,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000035.png",
+      "source_mask": "masks/TB_Camera4_000035.png",
+      "tile_xy": [
+        1,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera4_000035",
+      "tile": "A",
+      "pixels": 14121,
+      "edge_touch": true,
+      "border_pixels": 288,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 6352,
+      "fp": 1030,
+      "fn": 7769,
+      "dice": 0.5908012835418314,
+      "recall": 0.44982649953969267,
+      "labels": [
+        "edge_touch_proxy",
+        "cross_tile_proxy"
+      ],
+      "source_image": "images/TB_Camera4_000035.png",
+      "source_mask": "masks/TB_Camera4_000035.png",
+      "tile_xy": [
+        0,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_001236",
+      "tile": "G",
+      "pixels": 471,
+      "edge_touch": false,
+      "border_pixels": 0,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 271,
+      "fp": 67,
+      "fn": 200,
+      "dice": 0.6699629171817059,
+      "recall": 0.5753715498938429,
+      "labels": [
+        "low_pixel_mass"
+      ],
+      "source_image": "images/TB_Camera3_001236.png",
+      "source_mask": "masks/TB_Camera3_001236.png",
+      "tile_xy": [
+        2,
+        1
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera6_001966",
+      "tile": "D",
+      "pixels": 1025,
+      "edge_touch": true,
+      "border_pixels": 70,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 950,
+      "fp": 888,
+      "fn": 75,
+      "dice": 0.6636395389451624,
+      "recall": 0.926829268292683,
+      "labels": [
+        "edge_touch_proxy"
+      ],
+      "source_image": "images/TB_Camera6_001966.png",
+      "source_mask": "masks/TB_Camera6_001966.png",
+      "tile_xy": [
+        3,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    },
+    {
+      "split": "val",
+      "group": "TB_Camera3_001236",
+      "tile": "B",
+      "pixels": 1485,
+      "edge_touch": true,
+      "border_pixels": 41,
+      "selected_grid": true,
+      "selected_context": true,
+      "tp": 806,
+      "fp": 927,
+      "fn": 679,
+      "dice": 0.5009322560596644,
+      "recall": 0.5427609427609428,
+      "labels": [
+        "edge_touch_proxy"
+      ],
+      "source_image": "images/TB_Camera3_001236.png",
+      "source_mask": "masks/TB_Camera3_001236.png",
+      "tile_xy": [
+        1,
+        0
+      ],
+      "review_status": "needs_manual_review"
+    }
+  ],
+  "category_counts": {
+    "cross_tile_proxy": 46,
+    "edge_touch_proxy": 56,
+    "low_pixel_mass": 37,
+    "ranker_disagreement": 10,
+    "ranker_missed": 8,
+    "segmenter_low_recall": 19
+  },
+  "manual_review_required": true
+}

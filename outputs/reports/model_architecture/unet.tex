@@ -1,0 +1,103 @@
+\documentclass[border=9pt,tikz]{standalone}
+\usepackage{import}
+\subimport{/home/zz/Desktop/Parper/.tools/PlotNeuralNet/layers/}{init}
+\usepackage{amsmath}
+\usetikzlibrary{positioning,calc,arrows.meta}
+\definecolor{encoder}{HTML}{0072B2}
+\definecolor{decoder}{HTML}{009E73}
+\definecolor{upsample}{HTML}{D55E00}
+\begin{document}
+\begin{tikzpicture}[font=\sffamily\small,
+ flow/.style={-{Stealth[length=2mm]},line width=.8pt,draw=black!65},
+ skip/.style={flow,dashed,draw=black!45},
+ up/.style={flow,draw=upsample},
+ concat/.style={circle,draw=black!65,fill=white,inner sep=2.7pt,font=\sffamily\small},
+ info/.style={font=\sffamily\footnotesize,fill=white,inner sep=2pt}]
+\node[font=\sffamily\bfseries\Large] at (7,2.3) {Basic U-Net};
+\node[font=\sffamily\small] at (7,1.65) {7,760,097 parameters \quad $512\times512$ input};
+
+\pic at (0,-0.0,0) {RightBandedBox={name=e0,width={2.4,2.4},height=9,depth=9,fill=encoder,bandfill=encoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (e0-north) {Encoder 1};
+\node[below=16pt] at (e0-south) {$32\times 512\times 512$};
+
+\pic at (12,-0.0,0) {RightBandedBox={name=d0,width={2.4,2.4},height=9,depth=9,fill=decoder,bandfill=decoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (d0-north) {Decoder 4};
+\node[below=16pt] at (d0-south) {$32\times 512\times 512$};
+
+\node[concat] (c0) at (10.3,-0.0) {C};
+\draw[skip] (e0-east) -- node[info,above] {skip: $32$ channels} (c0.west);
+\draw[flow] (c0.east) -- node[info,above] {$64$ ch.} (d0-west);
+
+\pic at (0,-4.2,0) {RightBandedBox={name=e1,width={2.4,2.4},height=7.6,depth=7.6,fill=encoder,bandfill=encoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (e1-north) {Encoder 2};
+\node[below=16pt] at (e1-south) {$64\times 256\times 256$};
+
+\pic at (12,-4.2,0) {RightBandedBox={name=d1,width={2.4,2.4},height=7.6,depth=7.6,fill=decoder,bandfill=decoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (d1-north) {Decoder 3};
+\node[below=16pt] at (d1-south) {$64\times 256\times 256$};
+
+\node[concat] (c1) at (10.3,-4.2) {C};
+\draw[skip] (e1-east) -- node[info,above] {skip: $64$ channels} (c1.west);
+\draw[flow] (c1.east) -- node[info,above] {$128$ ch.} (d1-west);
+
+\draw[flow] (e0-southwest) -- ++(-1.6,0) |- node[info,near end,above] {$2\times2$ pool} (e1-west);
+\draw[up] (d1-east) -- (14.2,-4.2) -- (14.2,-2.2) -- (10.3,-2.2) -- (c0.south);
+\node[info,text=upsample] at (11.5,-2.2) {$2\times2$ up};
+
+\pic at (0,-8.4,0) {RightBandedBox={name=e2,width={2.4,2.4},height=6.4,depth=6.4,fill=encoder,bandfill=encoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (e2-north) {Encoder 3};
+\node[below=16pt] at (e2-south) {$128\times 128\times 128$};
+
+\pic at (12,-8.4,0) {RightBandedBox={name=d2,width={2.4,2.4},height=6.4,depth=6.4,fill=decoder,bandfill=decoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (d2-north) {Decoder 2};
+\node[below=16pt] at (d2-south) {$128\times 128\times 128$};
+
+\node[concat] (c2) at (10.3,-8.4) {C};
+\draw[skip] (e2-east) -- node[info,above] {skip: $128$ channels} (c2.west);
+\draw[flow] (c2.east) -- node[info,above] {$256$ ch.} (d2-west);
+
+\draw[flow] (e1-southwest) -- ++(-1.6,0) |- node[info,near end,above] {$2\times2$ pool} (e2-west);
+\draw[up] (d2-east) -- (14.2,-8.4) -- (14.2,-6.4) -- (10.3,-6.4) -- (c1.south);
+\node[info,text=upsample] at (11.5,-6.4) {$2\times2$ up};
+
+\pic at (0,-12.600000000000001,0) {RightBandedBox={name=e3,width={2.4,2.4},height=5.4,depth=5.4,fill=encoder,bandfill=encoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (e3-north) {Encoder 4};
+\node[below=16pt] at (e3-south) {$256\times 64\times 64$};
+
+\pic at (12,-12.600000000000001,0) {RightBandedBox={name=d3,width={2.4,2.4},height=5.4,depth=5.4,fill=decoder,bandfill=decoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (d3-north) {Decoder 1};
+\node[below=16pt] at (d3-south) {$256\times 64\times 64$};
+
+\node[concat] (c3) at (10.3,-12.600000000000001) {C};
+\draw[skip] (e3-east) -- node[info,above] {skip: $256$ channels} (c3.west);
+\draw[flow] (c3.east) -- node[info,above] {$512$ ch.} (d3-west);
+
+\draw[flow] (e2-southwest) -- ++(-1.6,0) |- node[info,near end,above] {$2\times2$ pool} (e3-west);
+\draw[up] (d3-east) -- (14.2,-12.600000000000001) -- (14.2,-10.600000000000001) -- (10.3,-10.600000000000001) -- (c2.south);
+\node[info,text=upsample] at (11.5,-10.600000000000001) {$2\times2$ up};
+
+\pic at (5.4,-16.5,0) {RightBandedBox={name=b,width={2.4,2.4},height=4.6,depth=4.6,fill=encoder,bandfill=encoder!75!black,opacity=.6,bandopacity=.85,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries\small] at (b-north) {Bottleneck};
+\node[below=16pt] at (b-south) {$512\times 32\times 32$};
+
+\draw[flow] (e3-southwest) -- ++(-1.6,0) |- node[info,near end,above] {$2\times2$ pool} (b-west);
+\draw[up] (b-east) -- (10.3,-16.5) -- node[info,right=3pt,text=upsample] {$2\times2$ up} (c3.south);
+\pic at (-3.6,0,0) {Box={name=input,width=.9,height=9,depth=9,fill=black!25,opacity=.5,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries] at (input-north) {Input};
+\node[below=16pt] at (input-south) {$3\times512\times512$};
+\draw[flow] (input-east) -- (e0-west);
+\pic at (16,0,0) {Box={name=out,width=.9,height=9,depth=9,fill=upsample,opacity=.7,xlabel={{"",""}},ylabel=,zlabel=,caption=}};
+\node[above=5pt,font=\sffamily\bfseries] at (out-north) {Logits};
+\node[below=16pt] at (out-south) {$1\times512\times512$};
+\draw[flow] (d0-east) -- node[info,above] {$1\times1$ conv} (out-west);
+\node[anchor=west,align=left,font=\sffamily\footnotesize] at (-3.6,-19.5) {
+\textcolor{encoder}{\rule{8pt}{8pt}} Encoder / bottleneck \qquad
+\textcolor{decoder}{\rule{8pt}{8pt}} Decoder \qquad
+\textcolor{upsample}{\rule{8pt}{8pt}} Transposed convolution / output head\\[5pt]
+Each paired cuboid: $(3\times3\ \mathrm{Conv}+\mathrm{ReLU})\times2$; no batch normalization.\\[4pt]
+C: channel concatenation. Up: $2\times2$ transposed convolution, stride 2. Pool: max pooling, stride 2.\\[4pt]
+Tensor labels: channels $\times$ height $\times$ width. Cuboid dimensions are schematic.\\[4pt]
+Inference only: sigmoid followed by threshold 0.5; these are outside the trainable model.
+};
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,6 @@
+{
+  "topk": 6,
+  "mean_end_to_end_seconds": 0.09517007984742612,
+  "p95_end_to_end_seconds": 0.16283082639856702,
+  "frames": 13
+}

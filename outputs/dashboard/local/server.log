@@ -1,0 +1,12 @@
+Dashboard: http://127.0.0.1:8765 | run=tack_baseline
+127.0.0.1 - - [15/Nov/2026 21:00:42] code 404, message Not Found
+127.0.0.1 - - [15/Nov/2026 21:00:42] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [15/Nov/2026 21:01:09] code 404, message Not Found
+127.0.0.1 - - [15/Nov/2026 21:01:09] "GET /.venv/pyvenv.cfg HTTP/1.1" 404 -
+127.0.0.1 - - [15/Nov/2026 21:01:09] code 404, message Not Found
+127.0.0.1 - - [15/Nov/2026 21:01:09] "GET /../../README.md HTTP/1.1" 404 -
+127.0.0.1 - - [15/Nov/2026 21:01:09] code 404, message Not Found
+127.0.0.1 - - [15/Nov/2026 21:01:09] "GET /api/resume HTTP/1.1" 404 -
+Dashboard: http://127.0.0.1:8765 | run=tack_repro_20261115_211623
+Dashboard: http://127.0.0.1:8765 | run=tack_standard_20261115_214038
+Dashboard: http://127.0.0.1:8765 | run=tack_resnet34_20261115_222833

@@ -1,0 +1,34 @@
+{
+  "grid_val": {
+    "positive_tiles": 43,
+    "selected_positive_tiles": 37,
+    "selected_tile_rate": 0.8604651162790697,
+    "selected_full_seg_recall": 0.5250593060190584,
+    "not_selected_full_seg_recall": 0.23111235015333148,
+    "cascade_recall_on_positive_tiles": 0.5067865840052003
+  },
+  "grid_test": {
+    "positive_tiles": 24,
+    "selected_positive_tiles": 22,
+    "selected_tile_rate": 0.9166666666666666,
+    "selected_full_seg_recall": 0.49953048251950305,
+    "not_selected_full_seg_recall": 0.30359085963003263,
+    "cascade_recall_on_positive_tiles": 0.48348306358583565
+  },
+  "context_val": {
+    "positive_tiles": 43,
+    "selected_positive_tiles": 37,
+    "selected_tile_rate": 0.8604651162790697,
+    "selected_full_seg_recall": 0.4917622997386661,
+    "not_selected_full_seg_recall": 0.5914005531807895,
+    "cascade_recall_on_positive_tiles": 0.3779142532817184
+  },
+  "context_test": {
+    "positive_tiles": 24,
+    "selected_positive_tiles": 20,
+    "selected_tile_rate": 0.8333333333333334,
+    "selected_full_seg_recall": 0.5015044380923726,
+    "not_selected_full_seg_recall": 0.3843486874690441,
+    "cascade_recall_on_positive_tiles": 0.4661096934316776
+  }
+}

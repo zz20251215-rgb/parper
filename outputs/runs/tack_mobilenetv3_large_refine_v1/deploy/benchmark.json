@@ -1,0 +1,60 @@
+{
+  "protocol": "torchscript-eager-benchmark-v1",
+  "checkpoint": "outputs/runs/tack_mobilenetv3_large_refine_v1/best.pt",
+  "torchscript": "outputs/runs/tack_mobilenetv3_large_refine_v1/deploy/refine_fp32.ts",
+  "input_shape": [
+    1,
+    3,
+    512,
+    512
+  ],
+  "torch": "2.11.0+cu128",
+  "python": "3.12.3",
+  "cpu": "x86_64",
+  "output_max_abs_diff": 0.0,
+  "output_mean_abs_diff": 0.0,
+  "devices": {
+    "cpu": {
+      "eager": {
+        "mean_ms": 86.43295930996828,
+        "p50_ms": 86.52862906455994,
+        "p95_ms": 96.54203057289124,
+        "min_ms": 75.49169100093422,
+        "max_ms": 99.13804799725767,
+        "samples": 100
+      },
+      "torchscript": {
+        "mean_ms": 77.74444666989439,
+        "p50_ms": 77.19596475362778,
+        "p95_ms": 82.39836990833282,
+        "min_ms": 72.17692999984138,
+        "max_ms": 85.14124499924947,
+        "samples": 100
+      }
+    },
+    "cuda": {
+      "name": "NVIDIA GeForce RTX 5070 Ti Laptop GPU",
+      "eager": {
+        "mean_ms": 3.8656501298828516,
+        "p50_ms": 3.847219981253147,
+        "p95_ms": 4.034251440316439,
+        "min_ms": 3.5653459999593906,
+        "max_ms": 4.7675489986431785,
+        "samples": 100
+      },
+      "torchscript": {
+        "mean_ms": 4.022443200010457,
+        "p50_ms": 3.926847130060196,
+        "p95_ms": 4.544348921626806,
+        "min_ms": 3.7714559948653914,
+        "max_ms": 4.66589300049236,
+        "samples": 100
+      },
+      "peak_allocated_bytes": 97232896
+    }
+  },
+  "limitations": [
+    "Host benchmark only; target device not selected.",
+    "Single-tile batch-1 timing; does not represent full cascade throughput."
+  ]
+}

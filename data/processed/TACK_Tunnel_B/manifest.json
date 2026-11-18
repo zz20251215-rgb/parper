@@ -1,0 +1,7711 @@
+{
+  "source": "data/TACK_Tunnel_Data",
+  "seed": 42,
+  "crack_value": 40,
+  "grouping": "Full filename prefix before the final tile suffix",
+  "samples": {
+    "TB_Camera3_000211_A": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_B": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_C": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_D": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_E": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_F": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_G": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_H": {
+      "group": "TB_Camera3_000211",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000211_I": {
+      "group": "TB_Camera3_000211",
+      "has_crack": true,
+      "crack_pixels": 1714
+    },
+    "TB_Camera3_000211_L": {
+      "group": "TB_Camera3_000211",
+      "has_crack": true,
+      "crack_pixels": 2711
+    },
+    "TB_Camera3_000211_M": {
+      "group": "TB_Camera3_000211",
+      "has_crack": true,
+      "crack_pixels": 101
+    },
+    "TB_Camera3_000211_N": {
+      "group": "TB_Camera3_000211",
+      "has_crack": true,
+      "crack_pixels": 528
+    },
+    "TB_Camera3_000238_A": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_B": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_C": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_D": {
+      "group": "TB_Camera3_000238",
+      "has_crack": true,
+      "crack_pixels": 70
+    },
+    "TB_Camera3_000238_E": {
+      "group": "TB_Camera3_000238",
+      "has_crack": true,
+      "crack_pixels": 3
+    },
+    "TB_Camera3_000238_F": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_G": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_H": {
+      "group": "TB_Camera3_000238",
+      "has_crack": true,
+      "crack_pixels": 652
+    },
+    "TB_Camera3_000238_I": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_L": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_M": {
+      "group": "TB_Camera3_000238",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000238_N": {
+      "group": "TB_Camera3_000238",
+      "has_crack": true,
+      "crack_pixels": 5971
+    },
+    "TB_Camera3_000248_A": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_B": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_C": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_D": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_E": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_F": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_G": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_H": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_I": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_L": {
+      "group": "TB_Camera3_000248",
+      "has_crack": true,
+      "crack_pixels": 1808
+    },
+    "TB_Camera3_000248_M": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000248_N": {
+      "group": "TB_Camera3_000248",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_A": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_B": {
+      "group": "TB_Camera3_000265",
+      "has_crack": true,
+      "crack_pixels": 725
+    },
+    "TB_Camera3_000265_C": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_D": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_E": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_F": {
+      "group": "TB_Camera3_000265",
+      "has_crack": true,
+      "crack_pixels": 633
+    },
+    "TB_Camera3_000265_G": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_H": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_I": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_L": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_M": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000265_N": {
+      "group": "TB_Camera3_000265",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_A": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_B": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_C": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_D": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_E": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_F": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_G": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_H": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_I": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_L": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_M": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000275_N": {
+      "group": "TB_Camera3_000275",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_A": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_B": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_C": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_D": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_E": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_F": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_G": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_H": {
+      "group": "TB_Camera3_000336",
+      "has_crack": true,
+      "crack_pixels": 1269
+    },
+    "TB_Camera3_000336_I": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_L": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_M": {
+      "group": "TB_Camera3_000336",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000336_N": {
+      "group": "TB_Camera3_000336",
+      "has_crack": true,
+      "crack_pixels": 3833
+    },
+    "TB_Camera3_000850_A": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_B": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_C": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_D": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_E": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_F": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_G": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_H": {
+      "group": "TB_Camera3_000850",
+      "has_crack": true,
+      "crack_pixels": 557
+    },
+    "TB_Camera3_000850_I": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_L": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_M": {
+      "group": "TB_Camera3_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000850_N": {
+      "group": "TB_Camera3_000850",
+      "has_crack": true,
+      "crack_pixels": 3542
+    },
+    "TB_Camera3_000866_A": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_B": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_C": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_D": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_E": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_F": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_G": {
+      "group": "TB_Camera3_000866",
+      "has_crack": true,
+      "crack_pixels": 1006
+    },
+    "TB_Camera3_000866_H": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_I": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_L": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_M": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000866_N": {
+      "group": "TB_Camera3_000866",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_A": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_B": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_C": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_D": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_E": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_F": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_G": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_H": {
+      "group": "TB_Camera3_000902",
+      "has_crack": true,
+      "crack_pixels": 548
+    },
+    "TB_Camera3_000902_I": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_L": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_M": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_000902_N": {
+      "group": "TB_Camera3_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_A": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_B": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_C": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_D": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_E": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_F": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_G": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_H": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_I": {
+      "group": "TB_Camera3_001107",
+      "has_crack": true,
+      "crack_pixels": 530
+    },
+    "TB_Camera3_001107_L": {
+      "group": "TB_Camera3_001107",
+      "has_crack": true,
+      "crack_pixels": 1166
+    },
+    "TB_Camera3_001107_M": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001107_N": {
+      "group": "TB_Camera3_001107",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_A": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_B": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_C": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_D": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_E": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_F": {
+      "group": "TB_Camera3_001198",
+      "has_crack": true,
+      "crack_pixels": 747
+    },
+    "TB_Camera3_001198_G": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_H": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_I": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_L": {
+      "group": "TB_Camera3_001198",
+      "has_crack": true,
+      "crack_pixels": 1053
+    },
+    "TB_Camera3_001198_M": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001198_N": {
+      "group": "TB_Camera3_001198",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_A": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_B": {
+      "group": "TB_Camera3_001236",
+      "has_crack": true,
+      "crack_pixels": 1485
+    },
+    "TB_Camera3_001236_C": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_D": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_E": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_F": {
+      "group": "TB_Camera3_001236",
+      "has_crack": true,
+      "crack_pixels": 551
+    },
+    "TB_Camera3_001236_G": {
+      "group": "TB_Camera3_001236",
+      "has_crack": true,
+      "crack_pixels": 471
+    },
+    "TB_Camera3_001236_H": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_I": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_L": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_M": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001236_N": {
+      "group": "TB_Camera3_001236",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_A": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_B": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_C": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_D": {
+      "group": "TB_Camera3_001237",
+      "has_crack": true,
+      "crack_pixels": 140
+    },
+    "TB_Camera3_001237_E": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_F": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_G": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_H": {
+      "group": "TB_Camera3_001237",
+      "has_crack": true,
+      "crack_pixels": 1216
+    },
+    "TB_Camera3_001237_I": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_L": {
+      "group": "TB_Camera3_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001237_M": {
+      "group": "TB_Camera3_001237",
+      "has_crack": true,
+      "crack_pixels": 884
+    },
+    "TB_Camera3_001237_N": {
+      "group": "TB_Camera3_001237",
+      "has_crack": true,
+      "crack_pixels": 15205
+    },
+    "TB_Camera3_001322_A": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_B": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_C": {
+      "group": "TB_Camera3_001322",
+      "has_crack": true,
+      "crack_pixels": 351
+    },
+    "TB_Camera3_001322_D": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_E": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_F": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_G": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_H": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_I": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_L": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_M": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001322_N": {
+      "group": "TB_Camera3_001322",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_A": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_B": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_C": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_D": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_E": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_F": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_G": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_H": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_I": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_L": {
+      "group": "TB_Camera3_001410",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001410_M": {
+      "group": "TB_Camera3_001410",
+      "has_crack": true,
+      "crack_pixels": 465
+    },
+    "TB_Camera3_001410_N": {
+      "group": "TB_Camera3_001410",
+      "has_crack": true,
+      "crack_pixels": 1408
+    },
+    "TB_Camera3_001534_A": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001534_B": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001534_C": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001534_D": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001534_E": {
+      "group": "TB_Camera3_001534",
+      "has_crack": true,
+      "crack_pixels": 359
+    },
+    "TB_Camera3_001534_F": {
+      "group": "TB_Camera3_001534",
+      "has_crack": true,
+      "crack_pixels": 2506
+    },
+    "TB_Camera3_001534_G": {
+      "group": "TB_Camera3_001534",
+      "has_crack": true,
+      "crack_pixels": 2864
+    },
+    "TB_Camera3_001534_H": {
+      "group": "TB_Camera3_001534",
+      "has_crack": true,
+      "crack_pixels": 3325
+    },
+    "TB_Camera3_001534_I": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001534_L": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001534_M": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001534_N": {
+      "group": "TB_Camera3_001534",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_A": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_B": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_C": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_D": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_E": {
+      "group": "TB_Camera3_001565",
+      "has_crack": true,
+      "crack_pixels": 1344
+    },
+    "TB_Camera3_001565_F": {
+      "group": "TB_Camera3_001565",
+      "has_crack": true,
+      "crack_pixels": 2432
+    },
+    "TB_Camera3_001565_G": {
+      "group": "TB_Camera3_001565",
+      "has_crack": true,
+      "crack_pixels": 2247
+    },
+    "TB_Camera3_001565_H": {
+      "group": "TB_Camera3_001565",
+      "has_crack": true,
+      "crack_pixels": 3142
+    },
+    "TB_Camera3_001565_I": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_L": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_M": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001565_N": {
+      "group": "TB_Camera3_001565",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_A": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_B": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_C": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_D": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_E": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_F": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_G": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_H": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_I": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001658_L": {
+      "group": "TB_Camera3_001658",
+      "has_crack": true,
+      "crack_pixels": 1621
+    },
+    "TB_Camera3_001658_M": {
+      "group": "TB_Camera3_001658",
+      "has_crack": true,
+      "crack_pixels": 2556
+    },
+    "TB_Camera3_001658_N": {
+      "group": "TB_Camera3_001658",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_A": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_B": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_C": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_D": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_E": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_F": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_G": {
+      "group": "TB_Camera3_001666",
+      "has_crack": true,
+      "crack_pixels": 579
+    },
+    "TB_Camera3_001666_H": {
+      "group": "TB_Camera3_001666",
+      "has_crack": true,
+      "crack_pixels": 2168
+    },
+    "TB_Camera3_001666_I": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_L": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_M": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001666_N": {
+      "group": "TB_Camera3_001666",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_A": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_B": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_C": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_D": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_E": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_F": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_G": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_H": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_I": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_L": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001673_M": {
+      "group": "TB_Camera3_001673",
+      "has_crack": true,
+      "crack_pixels": 89
+    },
+    "TB_Camera3_001673_N": {
+      "group": "TB_Camera3_001673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_A": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_B": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_C": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_D": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_E": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_F": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_G": {
+      "group": "TB_Camera3_001738",
+      "has_crack": true,
+      "crack_pixels": 485
+    },
+    "TB_Camera3_001738_H": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001738_I": {
+      "group": "TB_Camera3_001738",
+      "has_crack": true,
+      "crack_pixels": 1306
+    },
+    "TB_Camera3_001738_L": {
+      "group": "TB_Camera3_001738",
+      "has_crack": true,
+      "crack_pixels": 917
+    },
+    "TB_Camera3_001738_M": {
+      "group": "TB_Camera3_001738",
+      "has_crack": true,
+      "crack_pixels": 339
+    },
+    "TB_Camera3_001738_N": {
+      "group": "TB_Camera3_001738",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_A": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_B": {
+      "group": "TB_Camera3_001741",
+      "has_crack": true,
+      "crack_pixels": 82
+    },
+    "TB_Camera3_001741_C": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_D": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_E": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_F": {
+      "group": "TB_Camera3_001741",
+      "has_crack": true,
+      "crack_pixels": 444
+    },
+    "TB_Camera3_001741_G": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_H": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_I": {
+      "group": "TB_Camera3_001741",
+      "has_crack": true,
+      "crack_pixels": 487
+    },
+    "TB_Camera3_001741_L": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_M": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001741_N": {
+      "group": "TB_Camera3_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_A": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_B": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_C": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_D": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_E": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_F": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_G": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_H": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_I": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_L": {
+      "group": "TB_Camera3_001782",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001782_M": {
+      "group": "TB_Camera3_001782",
+      "has_crack": true,
+      "crack_pixels": 972
+    },
+    "TB_Camera3_001782_N": {
+      "group": "TB_Camera3_001782",
+      "has_crack": true,
+      "crack_pixels": 1414
+    },
+    "TB_Camera3_001814_A": {
+      "group": "TB_Camera3_001814",
+      "has_crack": true,
+      "crack_pixels": 1188
+    },
+    "TB_Camera3_001814_B": {
+      "group": "TB_Camera3_001814",
+      "has_crack": true,
+      "crack_pixels": 1285
+    },
+    "TB_Camera3_001814_C": {
+      "group": "TB_Camera3_001814",
+      "has_crack": true,
+      "crack_pixels": 238
+    },
+    "TB_Camera3_001814_D": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_E": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_F": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_G": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_H": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_I": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_L": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_M": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera3_001814_N": {
+      "group": "TB_Camera3_001814",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_A": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_B": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_C": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_D": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_E": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_F": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_G": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_H": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000034_I": {
+      "group": "TB_Camera4_000034",
+      "has_crack": true,
+      "crack_pixels": 10392
+    },
+    "TB_Camera4_000034_L": {
+      "group": "TB_Camera4_000034",
+      "has_crack": true,
+      "crack_pixels": 11756
+    },
+    "TB_Camera4_000034_M": {
+      "group": "TB_Camera4_000034",
+      "has_crack": true,
+      "crack_pixels": 17858
+    },
+    "TB_Camera4_000034_N": {
+      "group": "TB_Camera4_000034",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_A": {
+      "group": "TB_Camera4_000035",
+      "has_crack": true,
+      "crack_pixels": 14121
+    },
+    "TB_Camera4_000035_B": {
+      "group": "TB_Camera4_000035",
+      "has_crack": true,
+      "crack_pixels": 10044
+    },
+    "TB_Camera4_000035_C": {
+      "group": "TB_Camera4_000035",
+      "has_crack": true,
+      "crack_pixels": 19238
+    },
+    "TB_Camera4_000035_D": {
+      "group": "TB_Camera4_000035",
+      "has_crack": true,
+      "crack_pixels": 1029
+    },
+    "TB_Camera4_000035_E": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_F": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_G": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_H": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_I": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_L": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_M": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000035_N": {
+      "group": "TB_Camera4_000035",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_A": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_B": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_C": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_D": {
+      "group": "TB_Camera4_000334",
+      "has_crack": true,
+      "crack_pixels": 1206
+    },
+    "TB_Camera4_000334_E": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_F": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_G": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_H": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_I": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_L": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_M": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000334_N": {
+      "group": "TB_Camera4_000334",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_A": {
+      "group": "TB_Camera4_000337",
+      "has_crack": true,
+      "crack_pixels": 1520
+    },
+    "TB_Camera4_000337_B": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_C": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_D": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_E": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_F": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_G": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_H": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_I": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_L": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_M": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000337_N": {
+      "group": "TB_Camera4_000337",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_A": {
+      "group": "TB_Camera4_000628",
+      "has_crack": true,
+      "crack_pixels": 1684
+    },
+    "TB_Camera4_000628_B": {
+      "group": "TB_Camera4_000628",
+      "has_crack": true,
+      "crack_pixels": 4348
+    },
+    "TB_Camera4_000628_C": {
+      "group": "TB_Camera4_000628",
+      "has_crack": true,
+      "crack_pixels": 3520
+    },
+    "TB_Camera4_000628_D": {
+      "group": "TB_Camera4_000628",
+      "has_crack": true,
+      "crack_pixels": 1817
+    },
+    "TB_Camera4_000628_E": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_F": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_G": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_H": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_I": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_L": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_M": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000628_N": {
+      "group": "TB_Camera4_000628",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_A": {
+      "group": "TB_Camera4_000662",
+      "has_crack": true,
+      "crack_pixels": 1992
+    },
+    "TB_Camera4_000662_B": {
+      "group": "TB_Camera4_000662",
+      "has_crack": true,
+      "crack_pixels": 9579
+    },
+    "TB_Camera4_000662_C": {
+      "group": "TB_Camera4_000662",
+      "has_crack": true,
+      "crack_pixels": 7055
+    },
+    "TB_Camera4_000662_D": {
+      "group": "TB_Camera4_000662",
+      "has_crack": true,
+      "crack_pixels": 4369
+    },
+    "TB_Camera4_000662_E": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_F": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_G": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_H": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_I": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_L": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_M": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000662_N": {
+      "group": "TB_Camera4_000662",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_A": {
+      "group": "TB_Camera4_000682",
+      "has_crack": true,
+      "crack_pixels": 1066
+    },
+    "TB_Camera4_000682_B": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_C": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_D": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_E": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_F": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_G": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_H": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_I": {
+      "group": "TB_Camera4_000682",
+      "has_crack": true,
+      "crack_pixels": 267
+    },
+    "TB_Camera4_000682_L": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_M": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000682_N": {
+      "group": "TB_Camera4_000682",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_A": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_B": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_C": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_D": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_E": {
+      "group": "TB_Camera4_000850",
+      "has_crack": true,
+      "crack_pixels": 891
+    },
+    "TB_Camera4_000850_F": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_G": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_H": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_I": {
+      "group": "TB_Camera4_000850",
+      "has_crack": true,
+      "crack_pixels": 720
+    },
+    "TB_Camera4_000850_L": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_M": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000850_N": {
+      "group": "TB_Camera4_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_A": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_B": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_C": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_D": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_E": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_F": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_G": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_H": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_I": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_L": {
+      "group": "TB_Camera4_000884",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000884_M": {
+      "group": "TB_Camera4_000884",
+      "has_crack": true,
+      "crack_pixels": 371
+    },
+    "TB_Camera4_000884_N": {
+      "group": "TB_Camera4_000884",
+      "has_crack": true,
+      "crack_pixels": 378
+    },
+    "TB_Camera4_000902_A": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_B": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_C": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_D": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_E": {
+      "group": "TB_Camera4_000902",
+      "has_crack": true,
+      "crack_pixels": 574
+    },
+    "TB_Camera4_000902_F": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_G": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_H": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_I": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_L": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_M": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_000902_N": {
+      "group": "TB_Camera4_000902",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_A": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_B": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_C": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_D": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_E": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_F": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_G": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_H": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001108_I": {
+      "group": "TB_Camera4_001108",
+      "has_crack": true,
+      "crack_pixels": 1730
+    },
+    "TB_Camera4_001108_L": {
+      "group": "TB_Camera4_001108",
+      "has_crack": true,
+      "crack_pixels": 2268
+    },
+    "TB_Camera4_001108_M": {
+      "group": "TB_Camera4_001108",
+      "has_crack": true,
+      "crack_pixels": 637
+    },
+    "TB_Camera4_001108_N": {
+      "group": "TB_Camera4_001108",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_A": {
+      "group": "TB_Camera4_001237",
+      "has_crack": true,
+      "crack_pixels": 961
+    },
+    "TB_Camera4_001237_B": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_C": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_D": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_E": {
+      "group": "TB_Camera4_001237",
+      "has_crack": true,
+      "crack_pixels": 1592
+    },
+    "TB_Camera4_001237_F": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_G": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_H": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_I": {
+      "group": "TB_Camera4_001237",
+      "has_crack": true,
+      "crack_pixels": 647
+    },
+    "TB_Camera4_001237_L": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_M": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001237_N": {
+      "group": "TB_Camera4_001237",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_A": {
+      "group": "TB_Camera4_001262",
+      "has_crack": true,
+      "crack_pixels": 966
+    },
+    "TB_Camera4_001262_B": {
+      "group": "TB_Camera4_001262",
+      "has_crack": true,
+      "crack_pixels": 1376
+    },
+    "TB_Camera4_001262_C": {
+      "group": "TB_Camera4_001262",
+      "has_crack": true,
+      "crack_pixels": 2637
+    },
+    "TB_Camera4_001262_D": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_E": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_F": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_G": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_H": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_I": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_L": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_M": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001262_N": {
+      "group": "TB_Camera4_001262",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_A": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_B": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_C": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_D": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_E": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_F": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_G": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_H": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_I": {
+      "group": "TB_Camera4_001493",
+      "has_crack": true,
+      "crack_pixels": 609
+    },
+    "TB_Camera4_001493_L": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_M": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001493_N": {
+      "group": "TB_Camera4_001493",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_A": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_B": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_C": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_D": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_E": {
+      "group": "TB_Camera4_001502",
+      "has_crack": true,
+      "crack_pixels": 775
+    },
+    "TB_Camera4_001502_F": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_G": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_H": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_I": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_L": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_M": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001502_N": {
+      "group": "TB_Camera4_001502",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_A": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_B": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_C": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_D": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_E": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_F": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_G": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_H": {
+      "group": "TB_Camera4_001513",
+      "has_crack": true,
+      "crack_pixels": 807
+    },
+    "TB_Camera4_001513_I": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_L": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_M": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001513_N": {
+      "group": "TB_Camera4_001513",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_A": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_B": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_C": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_D": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_E": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_F": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_G": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_H": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_I": {
+      "group": "TB_Camera4_001515",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001515_L": {
+      "group": "TB_Camera4_001515",
+      "has_crack": true,
+      "crack_pixels": 1633
+    },
+    "TB_Camera4_001515_M": {
+      "group": "TB_Camera4_001515",
+      "has_crack": true,
+      "crack_pixels": 822
+    },
+    "TB_Camera4_001515_N": {
+      "group": "TB_Camera4_001515",
+      "has_crack": true,
+      "crack_pixels": 477
+    },
+    "TB_Camera4_001521_A": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_B": {
+      "group": "TB_Camera4_001521",
+      "has_crack": true,
+      "crack_pixels": 1768
+    },
+    "TB_Camera4_001521_C": {
+      "group": "TB_Camera4_001521",
+      "has_crack": true,
+      "crack_pixels": 1252
+    },
+    "TB_Camera4_001521_D": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_E": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_F": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_G": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_H": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_I": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_L": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_M": {
+      "group": "TB_Camera4_001521",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001521_N": {
+      "group": "TB_Camera4_001521",
+      "has_crack": true,
+      "crack_pixels": 295
+    },
+    "TB_Camera4_001527_A": {
+      "group": "TB_Camera4_001527",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001527_B": {
+      "group": "TB_Camera4_001527",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001527_C": {
+      "group": "TB_Camera4_001527",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001527_D": {
+      "group": "TB_Camera4_001527",
+      "has_crack": true,
+      "crack_pixels": 654
+    },
+    "TB_Camera4_001527_E": {
+      "group": "TB_Camera4_001527",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001527_F": {
+      "group": "TB_Camera4_001527",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001527_G": {
+      "group": "TB_Camera4_001527",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001527_H": {
+      "group": "TB_Camera4_001527",
+      "has_crack": true,
+      "crack_pixels": 460
+    },
+    "TB_Camera4_001527_I": {
+      "group": "TB_Camera4_001527",
+      "has_crack": true,
+      "crack_pixels": 119
+    },
+    "TB_Camera4_001527_L": {
+      "group": "TB_Camera4_001527",
+      "has_crack": true,
+      "crack_pixels": 4198
+    },
+    "TB_Camera4_001527_M": {
+      "group": "TB_Camera4_001527",
+      "has_crack": true,
+      "crack_pixels": 1994
+    },
+    "TB_Camera4_001527_N": {
+      "group": "TB_Camera4_001527",
+      "has_crack": true,
+      "crack_pixels": 3960
+    },
+    "TB_Camera4_001530_A": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_B": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_C": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_D": {
+      "group": "TB_Camera4_001530",
+      "has_crack": true,
+      "crack_pixels": 152
+    },
+    "TB_Camera4_001530_E": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_F": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_G": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_H": {
+      "group": "TB_Camera4_001530",
+      "has_crack": true,
+      "crack_pixels": 613
+    },
+    "TB_Camera4_001530_I": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_L": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_M": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001530_N": {
+      "group": "TB_Camera4_001530",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_A": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_B": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_C": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_D": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_E": {
+      "group": "TB_Camera4_001532",
+      "has_crack": true,
+      "crack_pixels": 693
+    },
+    "TB_Camera4_001532_F": {
+      "group": "TB_Camera4_001532",
+      "has_crack": true,
+      "crack_pixels": 233
+    },
+    "TB_Camera4_001532_G": {
+      "group": "TB_Camera4_001532",
+      "has_crack": true,
+      "crack_pixels": 1413
+    },
+    "TB_Camera4_001532_H": {
+      "group": "TB_Camera4_001532",
+      "has_crack": true,
+      "crack_pixels": 188
+    },
+    "TB_Camera4_001532_I": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_L": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_M": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001532_N": {
+      "group": "TB_Camera4_001532",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_A": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_B": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_C": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_D": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_E": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_F": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_G": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_H": {
+      "group": "TB_Camera4_001549",
+      "has_crack": true,
+      "crack_pixels": 755
+    },
+    "TB_Camera4_001549_I": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_L": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_M": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001549_N": {
+      "group": "TB_Camera4_001549",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_A": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_B": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_C": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_D": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_E": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_F": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_G": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_H": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_I": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_L": {
+      "group": "TB_Camera4_001559",
+      "has_crack": true,
+      "crack_pixels": 1113
+    },
+    "TB_Camera4_001559_M": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001559_N": {
+      "group": "TB_Camera4_001559",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_A": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_B": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_C": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_D": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_E": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_F": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_G": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_H": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001620_I": {
+      "group": "TB_Camera4_001620",
+      "has_crack": true,
+      "crack_pixels": 1016
+    },
+    "TB_Camera4_001620_L": {
+      "group": "TB_Camera4_001620",
+      "has_crack": true,
+      "crack_pixels": 3115
+    },
+    "TB_Camera4_001620_M": {
+      "group": "TB_Camera4_001620",
+      "has_crack": true,
+      "crack_pixels": 1031
+    },
+    "TB_Camera4_001620_N": {
+      "group": "TB_Camera4_001620",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_A": {
+      "group": "TB_Camera4_001627",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_B": {
+      "group": "TB_Camera4_001627",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_C": {
+      "group": "TB_Camera4_001627",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_D": {
+      "group": "TB_Camera4_001627",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_E": {
+      "group": "TB_Camera4_001627",
+      "has_crack": true,
+      "crack_pixels": 1920
+    },
+    "TB_Camera4_001627_F": {
+      "group": "TB_Camera4_001627",
+      "has_crack": true,
+      "crack_pixels": 272
+    },
+    "TB_Camera4_001627_G": {
+      "group": "TB_Camera4_001627",
+      "has_crack": true,
+      "crack_pixels": 27
+    },
+    "TB_Camera4_001627_H": {
+      "group": "TB_Camera4_001627",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_I": {
+      "group": "TB_Camera4_001627",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_L": {
+      "group": "TB_Camera4_001627",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001627_M": {
+      "group": "TB_Camera4_001627",
+      "has_crack": true,
+      "crack_pixels": 85
+    },
+    "TB_Camera4_001627_N": {
+      "group": "TB_Camera4_001627",
+      "has_crack": true,
+      "crack_pixels": 543
+    },
+    "TB_Camera4_001741_A": {
+      "group": "TB_Camera4_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001741_B": {
+      "group": "TB_Camera4_001741",
+      "has_crack": true,
+      "crack_pixels": 200
+    },
+    "TB_Camera4_001741_C": {
+      "group": "TB_Camera4_001741",
+      "has_crack": true,
+      "crack_pixels": 88
+    },
+    "TB_Camera4_001741_D": {
+      "group": "TB_Camera4_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001741_E": {
+      "group": "TB_Camera4_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001741_F": {
+      "group": "TB_Camera4_001741",
+      "has_crack": true,
+      "crack_pixels": 1076
+    },
+    "TB_Camera4_001741_G": {
+      "group": "TB_Camera4_001741",
+      "has_crack": true,
+      "crack_pixels": 41
+    },
+    "TB_Camera4_001741_H": {
+      "group": "TB_Camera4_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001741_I": {
+      "group": "TB_Camera4_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera4_001741_L": {
+      "group": "TB_Camera4_001741",
+      "has_crack": true,
+      "crack_pixels": 481
+    },
+    "TB_Camera4_001741_M": {
+      "group": "TB_Camera4_001741",
+      "has_crack": true,
+      "crack_pixels": 866
+    },
+    "TB_Camera4_001741_N": {
+      "group": "TB_Camera4_001741",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_A": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_B": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_C": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_D": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_E": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_F": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_G": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_H": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_I": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_L": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_M": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000301_N": {
+      "group": "TB_Camera5_000301",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_A": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_B": {
+      "group": "TB_Camera5_000344",
+      "has_crack": true,
+      "crack_pixels": 4642
+    },
+    "TB_Camera5_000344_C": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_D": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_E": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_F": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_G": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_H": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_I": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_L": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_M": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000344_N": {
+      "group": "TB_Camera5_000344",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_A": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_B": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_C": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_D": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_E": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_F": {
+      "group": "TB_Camera5_000724",
+      "has_crack": true,
+      "crack_pixels": 1147
+    },
+    "TB_Camera5_000724_G": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_H": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_I": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_L": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_M": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000724_N": {
+      "group": "TB_Camera5_000724",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_A": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_B": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_C": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_D": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_E": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_F": {
+      "group": "TB_Camera5_000766",
+      "has_crack": true,
+      "crack_pixels": 4236
+    },
+    "TB_Camera5_000766_G": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_H": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_I": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_L": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_M": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000766_N": {
+      "group": "TB_Camera5_000766",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_A": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_B": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_C": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_D": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_E": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_F": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_G": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_H": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_I": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_L": {
+      "group": "TB_Camera5_000850",
+      "has_crack": true,
+      "crack_pixels": 1415
+    },
+    "TB_Camera5_000850_M": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000850_N": {
+      "group": "TB_Camera5_000850",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_A": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_B": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_C": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_D": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_E": {
+      "group": "TB_Camera5_000886",
+      "has_crack": true,
+      "crack_pixels": 360
+    },
+    "TB_Camera5_000886_F": {
+      "group": "TB_Camera5_000886",
+      "has_crack": true,
+      "crack_pixels": 4987
+    },
+    "TB_Camera5_000886_G": {
+      "group": "TB_Camera5_000886",
+      "has_crack": true,
+      "crack_pixels": 3804
+    },
+    "TB_Camera5_000886_H": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_I": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_L": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_M": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000886_N": {
+      "group": "TB_Camera5_000886",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_A": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_B": {
+      "group": "TB_Camera5_000894",
+      "has_crack": true,
+      "crack_pixels": 2513
+    },
+    "TB_Camera5_000894_C": {
+      "group": "TB_Camera5_000894",
+      "has_crack": true,
+      "crack_pixels": 991
+    },
+    "TB_Camera5_000894_D": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_E": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_F": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_G": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_H": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_I": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_L": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_M": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_000894_N": {
+      "group": "TB_Camera5_000894",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_A": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_B": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_C": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_D": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_E": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_F": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_G": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_H": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_I": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_L": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_M": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001143_N": {
+      "group": "TB_Camera5_001143",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_A": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_B": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_C": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_D": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_E": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_F": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_G": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_H": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_I": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_L": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_M": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001185_N": {
+      "group": "TB_Camera5_001185",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_A": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_B": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_C": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_D": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_E": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_F": {
+      "group": "TB_Camera5_001225",
+      "has_crack": true,
+      "crack_pixels": 155
+    },
+    "TB_Camera5_001225_G": {
+      "group": "TB_Camera5_001225",
+      "has_crack": true,
+      "crack_pixels": 254
+    },
+    "TB_Camera5_001225_H": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_I": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001225_L": {
+      "group": "TB_Camera5_001225",
+      "has_crack": true,
+      "crack_pixels": 494
+    },
+    "TB_Camera5_001225_M": {
+      "group": "TB_Camera5_001225",
+      "has_crack": true,
+      "crack_pixels": 490
+    },
+    "TB_Camera5_001225_N": {
+      "group": "TB_Camera5_001225",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_A": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_B": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_C": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_D": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_E": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_F": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_G": {
+      "group": "TB_Camera5_001717",
+      "has_crack": true,
+      "crack_pixels": 193
+    },
+    "TB_Camera5_001717_H": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_I": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_L": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001717_M": {
+      "group": "TB_Camera5_001717",
+      "has_crack": true,
+      "crack_pixels": 301
+    },
+    "TB_Camera5_001717_N": {
+      "group": "TB_Camera5_001717",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_A": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_B": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_C": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_D": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_E": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_F": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_G": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_H": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_I": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001822_L": {
+      "group": "TB_Camera5_001822",
+      "has_crack": true,
+      "crack_pixels": 886
+    },
+    "TB_Camera5_001822_M": {
+      "group": "TB_Camera5_001822",
+      "has_crack": true,
+      "crack_pixels": 717
+    },
+    "TB_Camera5_001822_N": {
+      "group": "TB_Camera5_001822",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_A": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_B": {
+      "group": "TB_Camera5_001823",
+      "has_crack": true,
+      "crack_pixels": 1577
+    },
+    "TB_Camera5_001823_C": {
+      "group": "TB_Camera5_001823",
+      "has_crack": true,
+      "crack_pixels": 1583
+    },
+    "TB_Camera5_001823_D": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_E": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_F": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_G": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_H": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_I": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_L": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_M": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera5_001823_N": {
+      "group": "TB_Camera5_001823",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_A": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_B": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_C": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_D": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_E": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_F": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_G": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_H": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_I": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_L": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_M": {
+      "group": "TB_Camera6_000019",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000019_N": {
+      "group": "TB_Camera6_000019",
+      "has_crack": true,
+      "crack_pixels": 250
+    },
+    "TB_Camera6_000020_A": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000020_B": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000020_C": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000020_D": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000020_E": {
+      "group": "TB_Camera6_000020",
+      "has_crack": true,
+      "crack_pixels": 520
+    },
+    "TB_Camera6_000020_F": {
+      "group": "TB_Camera6_000020",
+      "has_crack": true,
+      "crack_pixels": 715
+    },
+    "TB_Camera6_000020_G": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000020_H": {
+      "group": "TB_Camera6_000020",
+      "has_crack": true,
+      "crack_pixels": 780
+    },
+    "TB_Camera6_000020_I": {
+      "group": "TB_Camera6_000020",
+      "has_crack": true,
+      "crack_pixels": 708
+    },
+    "TB_Camera6_000020_L": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000020_M": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000020_N": {
+      "group": "TB_Camera6_000020",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_A": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_B": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_C": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_D": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_E": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_F": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_G": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_H": {
+      "group": "TB_Camera6_000879",
+      "has_crack": true,
+      "crack_pixels": 349
+    },
+    "TB_Camera6_000879_I": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_L": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_M": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000879_N": {
+      "group": "TB_Camera6_000879",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_A": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_B": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_C": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_D": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_E": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_F": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_G": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_H": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_I": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_L": {
+      "group": "TB_Camera6_000999",
+      "has_crack": true,
+      "crack_pixels": 687
+    },
+    "TB_Camera6_000999_M": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_000999_N": {
+      "group": "TB_Camera6_000999",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_A": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_B": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_C": {
+      "group": "TB_Camera6_001021",
+      "has_crack": true,
+      "crack_pixels": 252
+    },
+    "TB_Camera6_001021_D": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_E": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_F": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_G": {
+      "group": "TB_Camera6_001021",
+      "has_crack": true,
+      "crack_pixels": 259
+    },
+    "TB_Camera6_001021_H": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_I": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_L": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_M": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001021_N": {
+      "group": "TB_Camera6_001021",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_A": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_B": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_C": {
+      "group": "TB_Camera6_001313",
+      "has_crack": true,
+      "crack_pixels": 400
+    },
+    "TB_Camera6_001313_D": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_E": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_F": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_G": {
+      "group": "TB_Camera6_001313",
+      "has_crack": true,
+      "crack_pixels": 120
+    },
+    "TB_Camera6_001313_H": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_I": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_L": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_M": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001313_N": {
+      "group": "TB_Camera6_001313",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_A": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_B": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_C": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_D": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_E": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_F": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_G": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_H": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_I": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_L": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_M": {
+      "group": "TB_Camera6_001520",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001520_N": {
+      "group": "TB_Camera6_001520",
+      "has_crack": true,
+      "crack_pixels": 413
+    },
+    "TB_Camera6_001552_A": {
+      "group": "TB_Camera6_001552",
+      "has_crack": true,
+      "crack_pixels": 205
+    },
+    "TB_Camera6_001552_B": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_C": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_D": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_E": {
+      "group": "TB_Camera6_001552",
+      "has_crack": true,
+      "crack_pixels": 566
+    },
+    "TB_Camera6_001552_F": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_G": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_H": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_I": {
+      "group": "TB_Camera6_001552",
+      "has_crack": true,
+      "crack_pixels": 172
+    },
+    "TB_Camera6_001552_L": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_M": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001552_N": {
+      "group": "TB_Camera6_001552",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_A": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_B": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_C": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_D": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_E": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_F": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_G": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_H": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_I": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_L": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_M": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001639_N": {
+      "group": "TB_Camera6_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_A": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_B": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_C": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_D": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_E": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_F": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_G": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_H": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_I": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_L": {
+      "group": "TB_Camera6_001685",
+      "has_crack": true,
+      "crack_pixels": 33
+    },
+    "TB_Camera6_001685_M": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001685_N": {
+      "group": "TB_Camera6_001685",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_A": {
+      "group": "TB_Camera6_001686",
+      "has_crack": true,
+      "crack_pixels": 607
+    },
+    "TB_Camera6_001686_B": {
+      "group": "TB_Camera6_001686",
+      "has_crack": true,
+      "crack_pixels": 1052
+    },
+    "TB_Camera6_001686_C": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_D": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_E": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_F": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_G": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_H": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_I": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_L": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_M": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001686_N": {
+      "group": "TB_Camera6_001686",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_A": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_B": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_C": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_D": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_E": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_F": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_G": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_H": {
+      "group": "TB_Camera6_001965",
+      "has_crack": true,
+      "crack_pixels": 814
+    },
+    "TB_Camera6_001965_I": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_L": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_M": {
+      "group": "TB_Camera6_001965",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001965_N": {
+      "group": "TB_Camera6_001965",
+      "has_crack": true,
+      "crack_pixels": 1538
+    },
+    "TB_Camera6_001966_A": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_B": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_C": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_D": {
+      "group": "TB_Camera6_001966",
+      "has_crack": true,
+      "crack_pixels": 1025
+    },
+    "TB_Camera6_001966_E": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_F": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_G": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_H": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_I": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_L": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_M": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera6_001966_N": {
+      "group": "TB_Camera6_001966",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_A": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_B": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_C": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_D": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_E": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_F": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_G": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_H": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_I": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_L": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000012_M": {
+      "group": "TB_Camera7_000012",
+      "has_crack": true,
+      "crack_pixels": 242
+    },
+    "TB_Camera7_000012_N": {
+      "group": "TB_Camera7_000012",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_A": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_B": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_C": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_D": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_E": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_F": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_G": {
+      "group": "TB_Camera7_000298",
+      "has_crack": true,
+      "crack_pixels": 1926
+    },
+    "TB_Camera7_000298_H": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_I": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_L": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_M": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000298_N": {
+      "group": "TB_Camera7_000298",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_A": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_B": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_C": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_D": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_E": {
+      "group": "TB_Camera7_000389",
+      "has_crack": true,
+      "crack_pixels": 520
+    },
+    "TB_Camera7_000389_F": {
+      "group": "TB_Camera7_000389",
+      "has_crack": true,
+      "crack_pixels": 1314
+    },
+    "TB_Camera7_000389_G": {
+      "group": "TB_Camera7_000389",
+      "has_crack": true,
+      "crack_pixels": 567
+    },
+    "TB_Camera7_000389_H": {
+      "group": "TB_Camera7_000389",
+      "has_crack": true,
+      "crack_pixels": 4271
+    },
+    "TB_Camera7_000389_I": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_L": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_M": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000389_N": {
+      "group": "TB_Camera7_000389",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_A": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_B": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_C": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_D": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_E": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_F": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_G": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_H": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_I": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_L": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_M": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000429_N": {
+      "group": "TB_Camera7_000429",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_A": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_B": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_C": {
+      "group": "TB_Camera7_000462",
+      "has_crack": true,
+      "crack_pixels": 623
+    },
+    "TB_Camera7_000462_D": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_E": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_F": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_G": {
+      "group": "TB_Camera7_000462",
+      "has_crack": true,
+      "crack_pixels": 1607
+    },
+    "TB_Camera7_000462_H": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_I": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_L": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000462_M": {
+      "group": "TB_Camera7_000462",
+      "has_crack": true,
+      "crack_pixels": 750
+    },
+    "TB_Camera7_000462_N": {
+      "group": "TB_Camera7_000462",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_A": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_B": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_C": {
+      "group": "TB_Camera7_000648",
+      "has_crack": true,
+      "crack_pixels": 528
+    },
+    "TB_Camera7_000648_D": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_E": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_F": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_G": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_H": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_I": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_L": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_M": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000648_N": {
+      "group": "TB_Camera7_000648",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_A": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_B": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_C": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_D": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_E": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_F": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_G": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_H": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_I": {
+      "group": "TB_Camera7_000672",
+      "has_crack": true,
+      "crack_pixels": 597
+    },
+    "TB_Camera7_000672_L": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_M": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000672_N": {
+      "group": "TB_Camera7_000672",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_A": {
+      "group": "TB_Camera7_000673",
+      "has_crack": true,
+      "crack_pixels": 2002
+    },
+    "TB_Camera7_000673_B": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_C": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_D": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_E": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_F": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_G": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_H": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_I": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_L": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_M": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000673_N": {
+      "group": "TB_Camera7_000673",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_A": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_B": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_C": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_D": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_E": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_F": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_G": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_H": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_I": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_L": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_M": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000697_N": {
+      "group": "TB_Camera7_000697",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_A": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_B": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_C": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_D": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_E": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_F": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_G": {
+      "group": "TB_Camera7_000769",
+      "has_crack": true,
+      "crack_pixels": 291
+    },
+    "TB_Camera7_000769_H": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_I": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_L": {
+      "group": "TB_Camera7_000769",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000769_M": {
+      "group": "TB_Camera7_000769",
+      "has_crack": true,
+      "crack_pixels": 1790
+    },
+    "TB_Camera7_000769_N": {
+      "group": "TB_Camera7_000769",
+      "has_crack": true,
+      "crack_pixels": 349
+    },
+    "TB_Camera7_000770_A": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_B": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_C": {
+      "group": "TB_Camera7_000770",
+      "has_crack": true,
+      "crack_pixels": 1970
+    },
+    "TB_Camera7_000770_D": {
+      "group": "TB_Camera7_000770",
+      "has_crack": true,
+      "crack_pixels": 570
+    },
+    "TB_Camera7_000770_E": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_F": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_G": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_H": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_I": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_L": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_M": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000770_N": {
+      "group": "TB_Camera7_000770",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_A": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_B": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_C": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_D": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_E": {
+      "group": "TB_Camera7_000799",
+      "has_crack": true,
+      "crack_pixels": 1660
+    },
+    "TB_Camera7_000799_F": {
+      "group": "TB_Camera7_000799",
+      "has_crack": true,
+      "crack_pixels": 1846
+    },
+    "TB_Camera7_000799_G": {
+      "group": "TB_Camera7_000799",
+      "has_crack": true,
+      "crack_pixels": 460
+    },
+    "TB_Camera7_000799_H": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_I": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_L": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_M": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_000799_N": {
+      "group": "TB_Camera7_000799",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_A": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_B": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_C": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_D": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_E": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_F": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_G": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_H": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_I": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_L": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_M": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001088_N": {
+      "group": "TB_Camera7_001088",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_A": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_B": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_C": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_D": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_E": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_F": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_G": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_H": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_I": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_L": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001095_M": {
+      "group": "TB_Camera7_001095",
+      "has_crack": true,
+      "crack_pixels": 505
+    },
+    "TB_Camera7_001095_N": {
+      "group": "TB_Camera7_001095",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_A": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_B": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_C": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_D": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_E": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_F": {
+      "group": "TB_Camera7_001121",
+      "has_crack": true,
+      "crack_pixels": 1155
+    },
+    "TB_Camera7_001121_G": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_H": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_I": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_L": {
+      "group": "TB_Camera7_001121",
+      "has_crack": true,
+      "crack_pixels": 639
+    },
+    "TB_Camera7_001121_M": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001121_N": {
+      "group": "TB_Camera7_001121",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_A": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_B": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_C": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_D": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_E": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_F": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_G": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_H": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_I": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_L": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001128_M": {
+      "group": "TB_Camera7_001128",
+      "has_crack": true,
+      "crack_pixels": 1487
+    },
+    "TB_Camera7_001128_N": {
+      "group": "TB_Camera7_001128",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_A": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_B": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_C": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_D": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_E": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_F": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_G": {
+      "group": "TB_Camera7_001132",
+      "has_crack": true,
+      "crack_pixels": 559
+    },
+    "TB_Camera7_001132_H": {
+      "group": "TB_Camera7_001132",
+      "has_crack": true,
+      "crack_pixels": 928
+    },
+    "TB_Camera7_001132_I": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_L": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_M": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001132_N": {
+      "group": "TB_Camera7_001132",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_A": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_B": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_C": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_D": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_E": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_F": {
+      "group": "TB_Camera7_001140",
+      "has_crack": true,
+      "crack_pixels": 648
+    },
+    "TB_Camera7_001140_G": {
+      "group": "TB_Camera7_001140",
+      "has_crack": true,
+      "crack_pixels": 1553
+    },
+    "TB_Camera7_001140_H": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_I": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_L": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001140_M": {
+      "group": "TB_Camera7_001140",
+      "has_crack": true,
+      "crack_pixels": 2
+    },
+    "TB_Camera7_001140_N": {
+      "group": "TB_Camera7_001140",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_A": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_B": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_C": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_D": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_E": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_F": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_G": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_H": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_I": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_L": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001292_M": {
+      "group": "TB_Camera7_001292",
+      "has_crack": true,
+      "crack_pixels": 1026
+    },
+    "TB_Camera7_001292_N": {
+      "group": "TB_Camera7_001292",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_A": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_B": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_C": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_D": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_E": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_F": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_G": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_H": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_I": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_L": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_M": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001418_N": {
+      "group": "TB_Camera7_001418",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_A": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_B": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_C": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_D": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_E": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_F": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_G": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_H": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_I": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_L": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_M": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001458_N": {
+      "group": "TB_Camera7_001458",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_A": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_B": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_C": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_D": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_E": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_F": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_G": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_H": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_I": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_L": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_M": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera7_001639_N": {
+      "group": "TB_Camera7_001639",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_A": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_B": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_C": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_D": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_E": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_F": {
+      "group": "TB_Camera8_000050",
+      "has_crack": true,
+      "crack_pixels": 214
+    },
+    "TB_Camera8_000050_G": {
+      "group": "TB_Camera8_000050",
+      "has_crack": true,
+      "crack_pixels": 1084
+    },
+    "TB_Camera8_000050_H": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_I": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_L": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_M": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000050_N": {
+      "group": "TB_Camera8_000050",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_A": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_B": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_C": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_D": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_E": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_F": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_G": {
+      "group": "TB_Camera8_000369",
+      "has_crack": true,
+      "crack_pixels": 756
+    },
+    "TB_Camera8_000369_H": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_I": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_L": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_M": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000369_N": {
+      "group": "TB_Camera8_000369",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_A": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_B": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_C": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_D": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_E": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_F": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_G": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_H": {
+      "group": "TB_Camera8_000420",
+      "has_crack": true,
+      "crack_pixels": 1115
+    },
+    "TB_Camera8_000420_I": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_L": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_M": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000420_N": {
+      "group": "TB_Camera8_000420",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000597_A": {
+      "group": "TB_Camera8_000597",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000597_B": {
+      "group": "TB_Camera8_000597",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000597_C": {
+      "group": "TB_Camera8_000597",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000597_D": {
+      "group": "TB_Camera8_000597",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000597_E": {
+      "group": "TB_Camera8_000597",
+      "has_crack": true,
+      "crack_pixels": 284
+    },
+    "TB_Camera8_000597_F": {
+      "group": "TB_Camera8_000597",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000597_G": {
+      "group": "TB_Camera8_000597",
+      "has_crack": true,
+      "crack_pixels": 336
+    },
+    "TB_Camera8_000597_H": {
+      "group": "TB_Camera8_000597",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000597_I": {
+      "group": "TB_Camera8_000597",
+      "has_crack": true,
+      "crack_pixels": 199
+    },
+    "TB_Camera8_000597_L": {
+      "group": "TB_Camera8_000597",
+      "has_crack": true,
+      "crack_pixels": 423
+    },
+    "TB_Camera8_000597_M": {
+      "group": "TB_Camera8_000597",
+      "has_crack": true,
+      "crack_pixels": 531
+    },
+    "TB_Camera8_000597_N": {
+      "group": "TB_Camera8_000597",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_A": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_B": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_C": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_D": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_E": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_F": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_G": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_H": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_I": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_L": {
+      "group": "TB_Camera8_000740",
+      "has_crack": true,
+      "crack_pixels": 729
+    },
+    "TB_Camera8_000740_M": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000740_N": {
+      "group": "TB_Camera8_000740",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_A": {
+      "group": "TB_Camera8_000846",
+      "has_crack": true,
+      "crack_pixels": 411
+    },
+    "TB_Camera8_000846_B": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_C": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_D": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_E": {
+      "group": "TB_Camera8_000846",
+      "has_crack": true,
+      "crack_pixels": 504
+    },
+    "TB_Camera8_000846_F": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_G": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_H": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_I": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_L": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_M": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000846_N": {
+      "group": "TB_Camera8_000846",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_A": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_B": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_C": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_D": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_E": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_F": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_G": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_H": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_000998_I": {
+      "group": "TB_Camera8_000998",
+      "has_crack": true,
+      "crack_pixels": 579
+    },
+    "TB_Camera8_000998_L": {
+      "group": "TB_Camera8_000998",
+      "has_crack": true,
+      "crack_pixels": 2512
+    },
+    "TB_Camera8_000998_M": {
+      "group": "TB_Camera8_000998",
+      "has_crack": true,
+      "crack_pixels": 780
+    },
+    "TB_Camera8_000998_N": {
+      "group": "TB_Camera8_000998",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001399_A": {
+      "group": "TB_Camera8_001399",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001399_B": {
+      "group": "TB_Camera8_001399",
+      "has_crack": true,
+      "crack_pixels": 862
+    },
+    "TB_Camera8_001399_C": {
+      "group": "TB_Camera8_001399",
+      "has_crack": true,
+      "crack_pixels": 1298
+    },
+    "TB_Camera8_001399_D": {
+      "group": "TB_Camera8_001399",
+      "has_crack": true,
+      "crack_pixels": 91
+    },
+    "TB_Camera8_001399_E": {
+      "group": "TB_Camera8_001399",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001399_F": {
+      "group": "TB_Camera8_001399",
+      "has_crack": true,
+      "crack_pixels": 296
+    },
+    "TB_Camera8_001399_G": {
+      "group": "TB_Camera8_001399",
+      "has_crack": true,
+      "crack_pixels": 307
+    },
+    "TB_Camera8_001399_H": {
+      "group": "TB_Camera8_001399",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001399_I": {
+      "group": "TB_Camera8_001399",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001399_L": {
+      "group": "TB_Camera8_001399",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001399_M": {
+      "group": "TB_Camera8_001399",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001399_N": {
+      "group": "TB_Camera8_001399",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_A": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_B": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_C": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_D": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_E": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_F": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_G": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_H": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_I": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001423_L": {
+      "group": "TB_Camera8_001423",
+      "has_crack": true,
+      "crack_pixels": 75
+    },
+    "TB_Camera8_001423_M": {
+      "group": "TB_Camera8_001423",
+      "has_crack": true,
+      "crack_pixels": 911
+    },
+    "TB_Camera8_001423_N": {
+      "group": "TB_Camera8_001423",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_A": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_B": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_C": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_D": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_E": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_F": {
+      "group": "TB_Camera8_001935",
+      "has_crack": true,
+      "crack_pixels": 716
+    },
+    "TB_Camera8_001935_G": {
+      "group": "TB_Camera8_001935",
+      "has_crack": true,
+      "crack_pixels": 731
+    },
+    "TB_Camera8_001935_H": {
+      "group": "TB_Camera8_001935",
+      "has_crack": true,
+      "crack_pixels": 2898
+    },
+    "TB_Camera8_001935_I": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_L": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_M": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001935_N": {
+      "group": "TB_Camera8_001935",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_A": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_B": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_C": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_D": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_E": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_F": {
+      "group": "TB_Camera8_001977",
+      "has_crack": true,
+      "crack_pixels": 529
+    },
+    "TB_Camera8_001977_G": {
+      "group": "TB_Camera8_001977",
+      "has_crack": true,
+      "crack_pixels": 328
+    },
+    "TB_Camera8_001977_H": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_I": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera8_001977_L": {
+      "group": "TB_Camera8_001977",
+      "has_crack": true,
+      "crack_pixels": 183
+    },
+    "TB_Camera8_001977_M": {
+      "group": "TB_Camera8_001977",
+      "has_crack": true,
+      "crack_pixels": 254
+    },
+    "TB_Camera8_001977_N": {
+      "group": "TB_Camera8_001977",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_A": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_B": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_C": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_D": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_E": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_F": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_G": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_H": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_I": {
+      "group": "TB_Camera9_000045",
+      "has_crack": true,
+      "crack_pixels": 519
+    },
+    "TB_Camera9_000045_L": {
+      "group": "TB_Camera9_000045",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000045_M": {
+      "group": "TB_Camera9_000045",
+      "has_crack": true,
+      "crack_pixels": 375
+    },
+    "TB_Camera9_000045_N": {
+      "group": "TB_Camera9_000045",
+      "has_crack": true,
+      "crack_pixels": 2334
+    },
+    "TB_Camera9_000074_A": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_B": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_C": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_D": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_E": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_F": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_G": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_H": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_I": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_L": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_M": {
+      "group": "TB_Camera9_000074",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000074_N": {
+      "group": "TB_Camera9_000074",
+      "has_crack": true,
+      "crack_pixels": 1260
+    },
+    "TB_Camera9_000326_A": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_B": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_C": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_D": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_E": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_F": {
+      "group": "TB_Camera9_000326",
+      "has_crack": true,
+      "crack_pixels": 436
+    },
+    "TB_Camera9_000326_G": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_H": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_I": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_L": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_M": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000326_N": {
+      "group": "TB_Camera9_000326",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_A": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_B": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_C": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_D": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_E": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_F": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_G": {
+      "group": "TB_Camera9_000355",
+      "has_crack": true,
+      "crack_pixels": 88
+    },
+    "TB_Camera9_000355_H": {
+      "group": "TB_Camera9_000355",
+      "has_crack": true,
+      "crack_pixels": 436
+    },
+    "TB_Camera9_000355_I": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_L": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_M": {
+      "group": "TB_Camera9_000355",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000355_N": {
+      "group": "TB_Camera9_000355",
+      "has_crack": true,
+      "crack_pixels": 260
+    },
+    "TB_Camera9_000356_A": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_B": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_C": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_D": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_E": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_F": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_G": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_H": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_I": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_L": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_M": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000356_N": {
+      "group": "TB_Camera9_000356",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_A": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_B": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_C": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_D": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_E": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_F": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_G": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_H": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_I": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_L": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000397_M": {
+      "group": "TB_Camera9_000397",
+      "has_crack": true,
+      "crack_pixels": 977
+    },
+    "TB_Camera9_000397_N": {
+      "group": "TB_Camera9_000397",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_A": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_B": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_C": {
+      "group": "TB_Camera9_000398",
+      "has_crack": true,
+      "crack_pixels": 438
+    },
+    "TB_Camera9_000398_D": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_E": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_F": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_G": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_H": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_I": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_L": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_M": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000398_N": {
+      "group": "TB_Camera9_000398",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_A": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_B": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_C": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_D": {
+      "group": "TB_Camera9_000409",
+      "has_crack": true,
+      "crack_pixels": 383
+    },
+    "TB_Camera9_000409_E": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_F": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_G": {
+      "group": "TB_Camera9_000409",
+      "has_crack": true,
+      "crack_pixels": 57
+    },
+    "TB_Camera9_000409_H": {
+      "group": "TB_Camera9_000409",
+      "has_crack": true,
+      "crack_pixels": 955
+    },
+    "TB_Camera9_000409_I": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_L": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000409_M": {
+      "group": "TB_Camera9_000409",
+      "has_crack": true,
+      "crack_pixels": 916
+    },
+    "TB_Camera9_000409_N": {
+      "group": "TB_Camera9_000409",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_A": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_B": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_C": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_D": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_E": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_F": {
+      "group": "TB_Camera9_000431",
+      "has_crack": true,
+      "crack_pixels": 890
+    },
+    "TB_Camera9_000431_G": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_H": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_I": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_L": {
+      "group": "TB_Camera9_000431",
+      "has_crack": true,
+      "crack_pixels": 1042
+    },
+    "TB_Camera9_000431_M": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000431_N": {
+      "group": "TB_Camera9_000431",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_A": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_B": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_C": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_D": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_E": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_F": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_G": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_H": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_I": {
+      "group": "TB_Camera9_000558",
+      "has_crack": true,
+      "crack_pixels": 1412
+    },
+    "TB_Camera9_000558_L": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000558_M": {
+      "group": "TB_Camera9_000558",
+      "has_crack": true,
+      "crack_pixels": 1810
+    },
+    "TB_Camera9_000558_N": {
+      "group": "TB_Camera9_000558",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_A": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_B": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_C": {
+      "group": "TB_Camera9_000586",
+      "has_crack": true,
+      "crack_pixels": 490
+    },
+    "TB_Camera9_000586_D": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_E": {
+      "group": "TB_Camera9_000586",
+      "has_crack": true,
+      "crack_pixels": 1430
+    },
+    "TB_Camera9_000586_F": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_G": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_H": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_I": {
+      "group": "TB_Camera9_000586",
+      "has_crack": true,
+      "crack_pixels": 20
+    },
+    "TB_Camera9_000586_L": {
+      "group": "TB_Camera9_000586",
+      "has_crack": true,
+      "crack_pixels": 598
+    },
+    "TB_Camera9_000586_M": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000586_N": {
+      "group": "TB_Camera9_000586",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_A": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_B": {
+      "group": "TB_Camera9_000903",
+      "has_crack": true,
+      "crack_pixels": 333
+    },
+    "TB_Camera9_000903_C": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_D": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_E": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_F": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_G": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_H": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_I": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_L": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_M": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_000903_N": {
+      "group": "TB_Camera9_000903",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_A": {
+      "group": "TB_Camera9_001004",
+      "has_crack": true,
+      "crack_pixels": 252
+    },
+    "TB_Camera9_001004_B": {
+      "group": "TB_Camera9_001004",
+      "has_crack": true,
+      "crack_pixels": 1701
+    },
+    "TB_Camera9_001004_C": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_D": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_E": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_F": {
+      "group": "TB_Camera9_001004",
+      "has_crack": true,
+      "crack_pixels": 1306
+    },
+    "TB_Camera9_001004_G": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_H": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_I": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_L": {
+      "group": "TB_Camera9_001004",
+      "has_crack": true,
+      "crack_pixels": 86
+    },
+    "TB_Camera9_001004_M": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001004_N": {
+      "group": "TB_Camera9_001004",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_A": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_B": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_C": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_D": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_E": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_F": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_G": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_H": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_I": {
+      "group": "TB_Camera9_001327",
+      "has_crack": true,
+      "crack_pixels": 543
+    },
+    "TB_Camera9_001327_L": {
+      "group": "TB_Camera9_001327",
+      "has_crack": true,
+      "crack_pixels": 1032
+    },
+    "TB_Camera9_001327_M": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001327_N": {
+      "group": "TB_Camera9_001327",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_A": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_B": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_C": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_D": {
+      "group": "TB_Camera9_001393",
+      "has_crack": true,
+      "crack_pixels": 581
+    },
+    "TB_Camera9_001393_E": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_F": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_G": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_H": {
+      "group": "TB_Camera9_001393",
+      "has_crack": true,
+      "crack_pixels": 1256
+    },
+    "TB_Camera9_001393_I": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_L": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_M": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001393_N": {
+      "group": "TB_Camera9_001393",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_A": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_B": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_C": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_D": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_E": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_F": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_G": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_H": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_I": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_L": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_M": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001402_N": {
+      "group": "TB_Camera9_001402",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_A": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_B": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_C": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_D": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_E": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_F": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_G": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_H": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_I": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_L": {
+      "group": "TB_Camera9_001643",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001643_M": {
+      "group": "TB_Camera9_001643",
+      "has_crack": true,
+      "crack_pixels": 453
+    },
+    "TB_Camera9_001643_N": {
+      "group": "TB_Camera9_001643",
+      "has_crack": true,
+      "crack_pixels": 163
+    },
+    "TB_Camera9_001644_A": {
+      "group": "TB_Camera9_001644",
+      "has_crack": true,
+      "crack_pixels": 203
+    },
+    "TB_Camera9_001644_B": {
+      "group": "TB_Camera9_001644",
+      "has_crack": true,
+      "crack_pixels": 989
+    },
+    "TB_Camera9_001644_C": {
+      "group": "TB_Camera9_001644",
+      "has_crack": true,
+      "crack_pixels": 665
+    },
+    "TB_Camera9_001644_D": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_E": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_F": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_G": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_H": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_I": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_L": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_M": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001644_N": {
+      "group": "TB_Camera9_001644",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_A": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_B": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_C": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_D": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_E": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_F": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_G": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_H": {
+      "group": "TB_Camera9_001684",
+      "has_crack": true,
+      "crack_pixels": 68
+    },
+    "TB_Camera9_001684_I": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_L": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_M": {
+      "group": "TB_Camera9_001684",
+      "has_crack": false,
+      "crack_pixels": 0
+    },
+    "TB_Camera9_001684_N": {
+      "group": "TB_Camera9_001684",
+      "has_crack": true,
+      "crack_pixels": 568
+    }
+  },
+  "summary": {
+    "train": {
+      "groups": 90,
+      "images": 1080,
+      "positive": 196,
+      "negative": 884,
+      "crack_pixel_ratio": 0.0008839607238769531
+    },
+    "val": {
+      "groups": 25,
+      "images": 300,
+      "positive": 43,
+      "negative": 257,
+      "crack_pixel_ratio": 0.0013106155395507812
+    },
+    "test": {
+      "groups": 13,
+      "images": 156,
+      "positive": 24,
+      "negative": 132,
+      "crack_pixel_ratio": 0.0006995323376777845
+    }
+  }
+}

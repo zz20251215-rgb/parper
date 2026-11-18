@@ -1,0 +1,1026 @@
+[
+  {
+    "group": "TB_Camera3_000211",
+    "split": "val",
+    "positive": true,
+    "max": 6.240757942199707,
+    "top6": 1.6033440828323364,
+    "top6min": -1.3661608695983887
+  },
+  {
+    "group": "TB_Camera3_000238",
+    "split": "train",
+    "positive": true,
+    "max": 5.285554885864258,
+    "top6": 3.341388702392578,
+    "top6min": 1.48126220703125
+  },
+  {
+    "group": "TB_Camera3_000248",
+    "split": "train",
+    "positive": true,
+    "max": 5.291426658630371,
+    "top6": -0.051001470535993576,
+    "top6min": -4.4150390625
+  },
+  {
+    "group": "TB_Camera3_000265",
+    "split": "test",
+    "positive": true,
+    "max": 5.866934776306152,
+    "top6": 2.054981231689453,
+    "top6min": -2.6425766944885254
+  },
+  {
+    "group": "TB_Camera3_000275",
+    "split": "val",
+    "positive": false,
+    "max": 0.7123129367828369,
+    "top6": -2.452791452407837,
+    "top6min": -4.431557655334473
+  },
+  {
+    "group": "TB_Camera3_000336",
+    "split": "train",
+    "positive": true,
+    "max": 7.459335803985596,
+    "top6": 1.5700206756591797,
+    "top6min": -2.643979549407959
+  },
+  {
+    "group": "TB_Camera3_000850",
+    "split": "train",
+    "positive": true,
+    "max": 7.697711944580078,
+    "top6": 2.181684970855713,
+    "top6min": -1.383934497833252
+  },
+  {
+    "group": "TB_Camera3_000866",
+    "split": "train",
+    "positive": true,
+    "max": 4.472805976867676,
+    "top6": 1.8713897466659546,
+    "top6min": -0.7983075380325317
+  },
+  {
+    "group": "TB_Camera3_000902",
+    "split": "train",
+    "positive": true,
+    "max": 7.591945648193359,
+    "top6": 1.1909695863723755,
+    "top6min": -1.966569185256958
+  },
+  {
+    "group": "TB_Camera3_001107",
+    "split": "train",
+    "positive": true,
+    "max": 5.607627868652344,
+    "top6": 1.1627503633499146,
+    "top6min": -1.6068553924560547
+  },
+  {
+    "group": "TB_Camera3_001198",
+    "split": "train",
+    "positive": true,
+    "max": 7.566361427307129,
+    "top6": 1.53284752368927,
+    "top6min": -2.507211208343506
+  },
+  {
+    "group": "TB_Camera3_001236",
+    "split": "val",
+    "positive": true,
+    "max": 3.7603437900543213,
+    "top6": 2.1342687606811523,
+    "top6min": 0.8596453666687012
+  },
+  {
+    "group": "TB_Camera3_001237",
+    "split": "train",
+    "positive": true,
+    "max": 2.942457675933838,
+    "top6": 1.0001208782196045,
+    "top6min": -1.0511451959609985
+  },
+  {
+    "group": "TB_Camera3_001322",
+    "split": "test",
+    "positive": true,
+    "max": 2.023068904876709,
+    "top6": -0.16180817782878876,
+    "top6min": -1.8722771406173706
+  },
+  {
+    "group": "TB_Camera3_001410",
+    "split": "train",
+    "positive": true,
+    "max": 4.879498481750488,
+    "top6": 1.4387749433517456,
+    "top6min": -2.094297170639038
+  },
+  {
+    "group": "TB_Camera3_001534",
+    "split": "train",
+    "positive": true,
+    "max": 8.170915603637695,
+    "top6": 4.280325412750244,
+    "top6min": -0.08878038823604584
+  },
+  {
+    "group": "TB_Camera3_001565",
+    "split": "train",
+    "positive": true,
+    "max": 7.231898784637451,
+    "top6": 4.955576419830322,
+    "top6min": 0.6476696729660034
+  },
+  {
+    "group": "TB_Camera3_001658",
+    "split": "test",
+    "positive": true,
+    "max": 0.304426372051239,
+    "top6": -2.480581760406494,
+    "top6min": -4.246995449066162
+  },
+  {
+    "group": "TB_Camera3_001666",
+    "split": "train",
+    "positive": true,
+    "max": 4.083183765411377,
+    "top6": 0.7446713447570801,
+    "top6min": -2.0691442489624023
+  },
+  {
+    "group": "TB_Camera3_001673",
+    "split": "train",
+    "positive": true,
+    "max": 6.388607978820801,
+    "top6": 0.6882410049438477,
+    "top6min": -3.132493495941162
+  },
+  {
+    "group": "TB_Camera3_001738",
+    "split": "val",
+    "positive": true,
+    "max": -0.24983178079128265,
+    "top6": -2.4528534412384033,
+    "top6min": -4.856414318084717
+  },
+  {
+    "group": "TB_Camera3_001741",
+    "split": "train",
+    "positive": true,
+    "max": 6.71518611907959,
+    "top6": 1.8231514692306519,
+    "top6min": -1.4616851806640625
+  },
+  {
+    "group": "TB_Camera3_001782",
+    "split": "train",
+    "positive": true,
+    "max": 6.338436126708984,
+    "top6": 0.3771418631076813,
+    "top6min": -3.6016736030578613
+  },
+  {
+    "group": "TB_Camera3_001814",
+    "split": "train",
+    "positive": true,
+    "max": 3.0805890560150146,
+    "top6": 0.7022209167480469,
+    "top6min": -1.5609809160232544
+  },
+  {
+    "group": "TB_Camera4_000034",
+    "split": "train",
+    "positive": true,
+    "max": 13.571500778198242,
+    "top6": 4.599100589752197,
+    "top6min": -4.430723190307617
+  },
+  {
+    "group": "TB_Camera4_000035",
+    "split": "val",
+    "positive": true,
+    "max": 8.136297225952148,
+    "top6": 4.403050422668457,
+    "top6min": 2.1952877044677734
+  },
+  {
+    "group": "TB_Camera4_000334",
+    "split": "train",
+    "positive": true,
+    "max": 7.207073211669922,
+    "top6": 0.816412627696991,
+    "top6min": -2.6640963554382324
+  },
+  {
+    "group": "TB_Camera4_000337",
+    "split": "val",
+    "positive": true,
+    "max": 5.080719470977783,
+    "top6": 0.4808218479156494,
+    "top6min": -2.5925910472869873
+  },
+  {
+    "group": "TB_Camera4_000628",
+    "split": "test",
+    "positive": true,
+    "max": 9.04958724975586,
+    "top6": 3.496018648147583,
+    "top6min": -4.2648444175720215
+  },
+  {
+    "group": "TB_Camera4_000662",
+    "split": "val",
+    "positive": true,
+    "max": 8.429922103881836,
+    "top6": 5.08748197555542,
+    "top6min": 1.9932832717895508
+  },
+  {
+    "group": "TB_Camera4_000682",
+    "split": "train",
+    "positive": true,
+    "max": 8.288354873657227,
+    "top6": 1.9695760011672974,
+    "top6min": -3.9840474128723145
+  },
+  {
+    "group": "TB_Camera4_000850",
+    "split": "test",
+    "positive": true,
+    "max": 4.69675350189209,
+    "top6": 1.4049582481384277,
+    "top6min": -0.5301785469055176
+  },
+  {
+    "group": "TB_Camera4_000884",
+    "split": "train",
+    "positive": true,
+    "max": 4.359062194824219,
+    "top6": 0.2932891845703125,
+    "top6min": -1.7339155673980713
+  },
+  {
+    "group": "TB_Camera4_000902",
+    "split": "train",
+    "positive": true,
+    "max": 6.120999336242676,
+    "top6": 0.9495652318000793,
+    "top6min": -2.2545886039733887
+  },
+  {
+    "group": "TB_Camera4_001108",
+    "split": "train",
+    "positive": true,
+    "max": 9.29471206665039,
+    "top6": 2.856142044067383,
+    "top6min": -3.4672412872314453
+  },
+  {
+    "group": "TB_Camera4_001237",
+    "split": "test",
+    "positive": true,
+    "max": 2.2589914798736572,
+    "top6": 0.7285225987434387,
+    "top6min": -1.252429485321045
+  },
+  {
+    "group": "TB_Camera4_001262",
+    "split": "train",
+    "positive": true,
+    "max": 2.134592056274414,
+    "top6": 1.3169273138046265,
+    "top6min": 0.5261220932006836
+  },
+  {
+    "group": "TB_Camera4_001493",
+    "split": "train",
+    "positive": true,
+    "max": 4.153645992279053,
+    "top6": -0.9377143383026123,
+    "top6min": -4.227278709411621
+  },
+  {
+    "group": "TB_Camera4_001502",
+    "split": "train",
+    "positive": true,
+    "max": 5.508655548095703,
+    "top6": 0.9189300537109375,
+    "top6min": -1.410637378692627
+  },
+  {
+    "group": "TB_Camera4_001513",
+    "split": "train",
+    "positive": true,
+    "max": 4.167901039123535,
+    "top6": -0.0403241328895092,
+    "top6min": -2.52262282371521
+  },
+  {
+    "group": "TB_Camera4_001515",
+    "split": "train",
+    "positive": true,
+    "max": 9.497926712036133,
+    "top6": 3.080792188644409,
+    "top6min": -2.0481150150299072
+  },
+  {
+    "group": "TB_Camera4_001521",
+    "split": "train",
+    "positive": true,
+    "max": 12.42499828338623,
+    "top6": 3.4487593173980713,
+    "top6min": -0.5135372281074524
+  },
+  {
+    "group": "TB_Camera4_001527",
+    "split": "train",
+    "positive": true,
+    "max": 9.574075698852539,
+    "top6": 7.09436559677124,
+    "top6min": 4.781425952911377
+  },
+  {
+    "group": "TB_Camera4_001530",
+    "split": "train",
+    "positive": true,
+    "max": 6.464454650878906,
+    "top6": 3.0171730518341064,
+    "top6min": 0.7224644422531128
+  },
+  {
+    "group": "TB_Camera4_001532",
+    "split": "train",
+    "positive": true,
+    "max": 5.861202239990234,
+    "top6": 4.270236968994141,
+    "top6min": 2.4941253662109375
+  },
+  {
+    "group": "TB_Camera4_001549",
+    "split": "train",
+    "positive": true,
+    "max": 3.781890869140625,
+    "top6": 0.12015938758850098,
+    "top6min": -1.386170506477356
+  },
+  {
+    "group": "TB_Camera4_001559",
+    "split": "train",
+    "positive": true,
+    "max": 5.847890853881836,
+    "top6": -0.473813533782959,
+    "top6min": -2.967709541320801
+  },
+  {
+    "group": "TB_Camera4_001620",
+    "split": "train",
+    "positive": true,
+    "max": 6.283656120300293,
+    "top6": 1.2045875787734985,
+    "top6min": -3.6721537113189697
+  },
+  {
+    "group": "TB_Camera4_001627",
+    "split": "train",
+    "positive": true,
+    "max": 7.8410325050354,
+    "top6": 5.013264179229736,
+    "top6min": 1.5158720016479492
+  },
+  {
+    "group": "TB_Camera4_001741",
+    "split": "train",
+    "positive": true,
+    "max": 7.103480339050293,
+    "top6": 3.5141830444335938,
+    "top6min": 1.040330171585083
+  },
+  {
+    "group": "TB_Camera5_000301",
+    "split": "train",
+    "positive": false,
+    "max": 1.8407745361328125,
+    "top6": -1.205828070640564,
+    "top6min": -2.9137699604034424
+  },
+  {
+    "group": "TB_Camera5_000344",
+    "split": "train",
+    "positive": true,
+    "max": 5.815492630004883,
+    "top6": -0.24916410446166992,
+    "top6min": -3.7876577377319336
+  },
+  {
+    "group": "TB_Camera5_000724",
+    "split": "train",
+    "positive": true,
+    "max": 6.316442489624023,
+    "top6": 1.6393080949783325,
+    "top6min": -1.194043755531311
+  },
+  {
+    "group": "TB_Camera5_000766",
+    "split": "val",
+    "positive": true,
+    "max": 8.339561462402344,
+    "top6": 2.970625638961792,
+    "top6min": 0.12612462043762207
+  },
+  {
+    "group": "TB_Camera5_000850",
+    "split": "val",
+    "positive": true,
+    "max": 0.19755974411964417,
+    "top6": -1.5212574005126953,
+    "top6min": -3.3331260681152344
+  },
+  {
+    "group": "TB_Camera5_000886",
+    "split": "train",
+    "positive": true,
+    "max": 11.122136116027832,
+    "top6": 4.753157138824463,
+    "top6min": -1.1031403541564941
+  },
+  {
+    "group": "TB_Camera5_000894",
+    "split": "train",
+    "positive": true,
+    "max": 5.506128311157227,
+    "top6": 2.7805213928222656,
+    "top6min": -0.3927699327468872
+  },
+  {
+    "group": "TB_Camera5_001143",
+    "split": "val",
+    "positive": false,
+    "max": 4.4693498611450195,
+    "top6": 2.1381876468658447,
+    "top6min": -0.8545515537261963
+  },
+  {
+    "group": "TB_Camera5_001185",
+    "split": "train",
+    "positive": false,
+    "max": -0.5975946187973022,
+    "top6": -2.1068904399871826,
+    "top6min": -3.4973151683807373
+  },
+  {
+    "group": "TB_Camera5_001225",
+    "split": "train",
+    "positive": true,
+    "max": 7.945384502410889,
+    "top6": 3.6677167415618896,
+    "top6min": -0.570004940032959
+  },
+  {
+    "group": "TB_Camera5_001717",
+    "split": "train",
+    "positive": true,
+    "max": 8.551769256591797,
+    "top6": 1.077164649963379,
+    "top6min": -3.1189463138580322
+  },
+  {
+    "group": "TB_Camera5_001822",
+    "split": "train",
+    "positive": true,
+    "max": 7.912570953369141,
+    "top6": 1.6874853372573853,
+    "top6min": -3.082613229751587
+  },
+  {
+    "group": "TB_Camera5_001823",
+    "split": "train",
+    "positive": true,
+    "max": 6.570083141326904,
+    "top6": 1.4745326042175293,
+    "top6min": -2.2089335918426514
+  },
+  {
+    "group": "TB_Camera6_000019",
+    "split": "train",
+    "positive": true,
+    "max": 4.330344200134277,
+    "top6": -1.8068238496780396,
+    "top6min": -5.616124153137207
+  },
+  {
+    "group": "TB_Camera6_000020",
+    "split": "val",
+    "positive": true,
+    "max": 2.1855788230895996,
+    "top6": -0.735226571559906,
+    "top6min": -3.3900418281555176
+  },
+  {
+    "group": "TB_Camera6_000879",
+    "split": "train",
+    "positive": true,
+    "max": 7.402570724487305,
+    "top6": 1.4928566217422485,
+    "top6min": -1.4012361764907837
+  },
+  {
+    "group": "TB_Camera6_000999",
+    "split": "train",
+    "positive": true,
+    "max": 7.820569038391113,
+    "top6": -0.15228605270385742,
+    "top6min": -3.4627983570098877
+  },
+  {
+    "group": "TB_Camera6_001021",
+    "split": "train",
+    "positive": true,
+    "max": 4.034658432006836,
+    "top6": 0.767115592956543,
+    "top6min": -2.2999019622802734
+  },
+  {
+    "group": "TB_Camera6_001313",
+    "split": "train",
+    "positive": true,
+    "max": 3.3382232189178467,
+    "top6": 0.2498958259820938,
+    "top6min": -1.7886912822723389
+  },
+  {
+    "group": "TB_Camera6_001520",
+    "split": "test",
+    "positive": true,
+    "max": 4.257546424865723,
+    "top6": -1.6896257400512695,
+    "top6min": -5.070516109466553
+  },
+  {
+    "group": "TB_Camera6_001552",
+    "split": "train",
+    "positive": true,
+    "max": 8.350090026855469,
+    "top6": 3.252387046813965,
+    "top6min": -3.0221810340881348
+  },
+  {
+    "group": "TB_Camera6_001639",
+    "split": "val",
+    "positive": false,
+    "max": 1.6310008764266968,
+    "top6": -1.0163081884384155,
+    "top6min": -1.977333664894104
+  },
+  {
+    "group": "TB_Camera6_001685",
+    "split": "train",
+    "positive": true,
+    "max": 7.549592971801758,
+    "top6": 0.0027163822669535875,
+    "top6min": -3.5647780895233154
+  },
+  {
+    "group": "TB_Camera6_001686",
+    "split": "train",
+    "positive": true,
+    "max": 6.094527244567871,
+    "top6": 0.03909158706665039,
+    "top6min": -4.409515857696533
+  },
+  {
+    "group": "TB_Camera6_001965",
+    "split": "train",
+    "positive": true,
+    "max": 10.32602310180664,
+    "top6": 2.157146692276001,
+    "top6min": -3.6049721240997314
+  },
+  {
+    "group": "TB_Camera6_001966",
+    "split": "val",
+    "positive": true,
+    "max": 1.3545870780944824,
+    "top6": -1.1983635425567627,
+    "top6min": -2.31048583984375
+  },
+  {
+    "group": "TB_Camera7_000012",
+    "split": "train",
+    "positive": true,
+    "max": 3.5116353034973145,
+    "top6": -1.9114574193954468,
+    "top6min": -4.714159965515137
+  },
+  {
+    "group": "TB_Camera7_000298",
+    "split": "val",
+    "positive": true,
+    "max": 6.401330947875977,
+    "top6": 2.382753372192383,
+    "top6min": -1.3395795822143555
+  },
+  {
+    "group": "TB_Camera7_000389",
+    "split": "train",
+    "positive": true,
+    "max": 11.853507995605469,
+    "top6": 6.374603271484375,
+    "top6min": -0.14926905930042267
+  },
+  {
+    "group": "TB_Camera7_000429",
+    "split": "train",
+    "positive": false,
+    "max": -1.0855448246002197,
+    "top6": -3.2224795818328857,
+    "top6min": -4.4748640060424805
+  },
+  {
+    "group": "TB_Camera7_000462",
+    "split": "train",
+    "positive": true,
+    "max": 5.303327560424805,
+    "top6": 1.4346941709518433,
+    "top6min": -2.2415452003479004
+  },
+  {
+    "group": "TB_Camera7_000648",
+    "split": "train",
+    "positive": true,
+    "max": 7.2129340171813965,
+    "top6": -0.5713163018226624,
+    "top6min": -4.358243942260742
+  },
+  {
+    "group": "TB_Camera7_000672",
+    "split": "train",
+    "positive": true,
+    "max": 7.538644313812256,
+    "top6": -0.33838310837745667,
+    "top6min": -4.2043938636779785
+  },
+  {
+    "group": "TB_Camera7_000673",
+    "split": "val",
+    "positive": true,
+    "max": 4.939379692077637,
+    "top6": 1.8107410669326782,
+    "top6min": -0.985835075378418
+  },
+  {
+    "group": "TB_Camera7_000697",
+    "split": "train",
+    "positive": false,
+    "max": -1.2337119579315186,
+    "top6": -2.3712427616119385,
+    "top6min": -3.507322072982788
+  },
+  {
+    "group": "TB_Camera7_000769",
+    "split": "train",
+    "positive": true,
+    "max": 8.161765098571777,
+    "top6": 0.6900210380554199,
+    "top6min": -3.0248422622680664
+  },
+  {
+    "group": "TB_Camera7_000770",
+    "split": "test",
+    "positive": true,
+    "max": 2.7532718181610107,
+    "top6": -1.3089265823364258,
+    "top6min": -3.840064764022827
+  },
+  {
+    "group": "TB_Camera7_000799",
+    "split": "train",
+    "positive": true,
+    "max": 9.729345321655273,
+    "top6": 4.165499687194824,
+    "top6min": -1.3898394107818604
+  },
+  {
+    "group": "TB_Camera7_001088",
+    "split": "train",
+    "positive": false,
+    "max": -2.4999427795410156,
+    "top6": -3.6423635482788086,
+    "top6min": -4.87364387512207
+  },
+  {
+    "group": "TB_Camera7_001095",
+    "split": "val",
+    "positive": true,
+    "max": 5.660423278808594,
+    "top6": -0.00017952919006347656,
+    "top6min": -4.4882659912109375
+  },
+  {
+    "group": "TB_Camera7_001121",
+    "split": "train",
+    "positive": true,
+    "max": 8.051203727722168,
+    "top6": 3.287813901901245,
+    "top6min": -0.7376143932342529
+  },
+  {
+    "group": "TB_Camera7_001128",
+    "split": "val",
+    "positive": true,
+    "max": 4.604799270629883,
+    "top6": 0.07716727256774902,
+    "top6min": -2.8100547790527344
+  },
+  {
+    "group": "TB_Camera7_001132",
+    "split": "train",
+    "positive": true,
+    "max": 4.851585388183594,
+    "top6": 1.0234817266464233,
+    "top6min": -2.9760470390319824
+  },
+  {
+    "group": "TB_Camera7_001140",
+    "split": "train",
+    "positive": true,
+    "max": 7.587542533874512,
+    "top6": 3.4169528484344482,
+    "top6min": -1.7725656032562256
+  },
+  {
+    "group": "TB_Camera7_001292",
+    "split": "test",
+    "positive": true,
+    "max": 6.534528732299805,
+    "top6": -0.3217075765132904,
+    "top6min": -3.7495012283325195
+  },
+  {
+    "group": "TB_Camera7_001418",
+    "split": "train",
+    "positive": false,
+    "max": -3.2135627269744873,
+    "top6": -4.065123081207275,
+    "top6min": -4.874080657958984
+  },
+  {
+    "group": "TB_Camera7_001458",
+    "split": "train",
+    "positive": false,
+    "max": -1.9365228414535522,
+    "top6": -3.3900740146636963,
+    "top6min": -4.489980697631836
+  },
+  {
+    "group": "TB_Camera7_001639",
+    "split": "train",
+    "positive": false,
+    "max": -0.7463333606719971,
+    "top6": -2.019155263900757,
+    "top6min": -3.3912513256073
+  },
+  {
+    "group": "TB_Camera8_000050",
+    "split": "train",
+    "positive": true,
+    "max": 7.242822647094727,
+    "top6": 3.4063851833343506,
+    "top6min": 1.9732396602630615
+  },
+  {
+    "group": "TB_Camera8_000369",
+    "split": "val",
+    "positive": true,
+    "max": 6.562646389007568,
+    "top6": 0.24830882251262665,
+    "top6min": -2.8443405628204346
+  },
+  {
+    "group": "TB_Camera8_000420",
+    "split": "train",
+    "positive": true,
+    "max": 6.673572063446045,
+    "top6": 0.5655034184455872,
+    "top6min": -2.52365779876709
+  },
+  {
+    "group": "TB_Camera8_000597",
+    "split": "train",
+    "positive": true,
+    "max": 13.280834197998047,
+    "top6": 5.239271640777588,
+    "top6min": -1.1200611591339111
+  },
+  {
+    "group": "TB_Camera8_000740",
+    "split": "train",
+    "positive": true,
+    "max": 6.7437214851379395,
+    "top6": 0.3038719594478607,
+    "top6min": -3.5141842365264893
+  },
+  {
+    "group": "TB_Camera8_000846",
+    "split": "train",
+    "positive": true,
+    "max": 8.36752700805664,
+    "top6": 1.1326521635055542,
+    "top6min": -3.3843138217926025
+  },
+  {
+    "group": "TB_Camera8_000998",
+    "split": "train",
+    "positive": true,
+    "max": 15.676736831665039,
+    "top6": 5.4456000328063965,
+    "top6min": -3.7822368144989014
+  },
+  {
+    "group": "TB_Camera8_001399",
+    "split": "train",
+    "positive": true,
+    "max": 5.798604965209961,
+    "top6": 2.5101029872894287,
+    "top6min": -2.252908229827881
+  },
+  {
+    "group": "TB_Camera8_001423",
+    "split": "train",
+    "positive": true,
+    "max": 9.684754371643066,
+    "top6": 2.8114547729492188,
+    "top6min": -1.4820057153701782
+  },
+  {
+    "group": "TB_Camera8_001935",
+    "split": "train",
+    "positive": true,
+    "max": 5.875843048095703,
+    "top6": 2.7894275188446045,
+    "top6min": -1.1370010375976562
+  },
+  {
+    "group": "TB_Camera8_001977",
+    "split": "train",
+    "positive": true,
+    "max": 7.686827659606934,
+    "top6": 2.9614975452423096,
+    "top6min": -1.8699933290481567
+  },
+  {
+    "group": "TB_Camera9_000045",
+    "split": "train",
+    "positive": true,
+    "max": 7.632655620574951,
+    "top6": 3.5591983795166016,
+    "top6min": -2.870443344116211
+  },
+  {
+    "group": "TB_Camera9_000074",
+    "split": "val",
+    "positive": true,
+    "max": 4.779314994812012,
+    "top6": 0.5461573004722595,
+    "top6min": -2.904104471206665
+  },
+  {
+    "group": "TB_Camera9_000326",
+    "split": "train",
+    "positive": true,
+    "max": 8.807470321655273,
+    "top6": 3.4437649250030518,
+    "top6min": -0.243878573179245
+  },
+  {
+    "group": "TB_Camera9_000355",
+    "split": "train",
+    "positive": true,
+    "max": 5.746511459350586,
+    "top6": 0.4629925787448883,
+    "top6min": -4.315090179443359
+  },
+  {
+    "group": "TB_Camera9_000356",
+    "split": "val",
+    "positive": false,
+    "max": 0.5313485860824585,
+    "top6": -0.4956730902194977,
+    "top6min": -2.0001020431518555
+  },
+  {
+    "group": "TB_Camera9_000397",
+    "split": "test",
+    "positive": true,
+    "max": 4.399299621582031,
+    "top6": -0.23258383572101593,
+    "top6min": -3.394806385040283
+  },
+  {
+    "group": "TB_Camera9_000398",
+    "split": "val",
+    "positive": true,
+    "max": 1.1298487186431885,
+    "top6": 0.495017409324646,
+    "top6min": -0.16369548439979553
+  },
+  {
+    "group": "TB_Camera9_000409",
+    "split": "val",
+    "positive": true,
+    "max": 6.7004194259643555,
+    "top6": 1.6670981645584106,
+    "top6min": -2.322251796722412
+  },
+  {
+    "group": "TB_Camera9_000431",
+    "split": "train",
+    "positive": true,
+    "max": 7.746243476867676,
+    "top6": 2.2264902591705322,
+    "top6min": -1.6446022987365723
+  },
+  {
+    "group": "TB_Camera9_000558",
+    "split": "train",
+    "positive": true,
+    "max": 7.374035835266113,
+    "top6": 1.7032519578933716,
+    "top6min": -1.270904779434204
+  },
+  {
+    "group": "TB_Camera9_000586",
+    "split": "train",
+    "positive": true,
+    "max": 9.081375122070312,
+    "top6": 2.6307413578033447,
+    "top6min": -1.601496696472168
+  },
+  {
+    "group": "TB_Camera9_000903",
+    "split": "test",
+    "positive": true,
+    "max": 4.57984733581543,
+    "top6": 1.7744603157043457,
+    "top6min": -0.6560320854187012
+  },
+  {
+    "group": "TB_Camera9_001004",
+    "split": "train",
+    "positive": true,
+    "max": 11.205936431884766,
+    "top6": 5.788736820220947,
+    "top6min": 2.1018686294555664
+  },
+  {
+    "group": "TB_Camera9_001327",
+    "split": "val",
+    "positive": true,
+    "max": 10.368268013000488,
+    "top6": 2.111574411392212,
+    "top6min": -3.644930362701416
+  },
+  {
+    "group": "TB_Camera9_001393",
+    "split": "train",
+    "positive": true,
+    "max": 11.290201187133789,
+    "top6": 1.4619196653366089,
+    "top6min": -5.120565891265869
+  },
+  {
+    "group": "TB_Camera9_001402",
+    "split": "val",
+    "positive": false,
+    "max": 1.6753872632980347,
+    "top6": -0.6404306888580322,
+    "top6min": -1.933295726776123
+  },
+  {
+    "group": "TB_Camera9_001643",
+    "split": "test",
+    "positive": true,
+    "max": 1.207535982131958,
+    "top6": 0.45014381408691406,
+    "top6min": -0.30874544382095337
+  },
+  {
+    "group": "TB_Camera9_001644",
+    "split": "val",
+    "positive": true,
+    "max": 4.081365585327148,
+    "top6": 0.8373323082923889,
+    "top6min": -2.2648563385009766
+  },
+  {
+    "group": "TB_Camera9_001684",
+    "split": "test",
+    "positive": true,
+    "max": -1.1426283121109009,
+    "top6": -2.824800729751587,
+    "top6min": -3.7239315509796143
+  }
+]

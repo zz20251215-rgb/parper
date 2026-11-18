@@ -1,0 +1,13 @@
+{
+  "split": "val",
+  "topk": 6,
+  "gap": 0.02,
+  "fallback_frames": 0,
+  "fallback_rate": 0.0,
+  "mean_selected_tiles": 6.0,
+  "dice": 0.5084993211249373,
+  "recall": 0.5068836045056321,
+  "negative_frames": 5,
+  "mean_end_to_end_seconds": 0.09882227107940707,
+  "p95_end_to_end_seconds": 0.0969006265993812
+}

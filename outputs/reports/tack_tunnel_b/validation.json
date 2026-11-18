@@ -1,0 +1,32 @@
+{
+  "filtering_validation": "PASS",
+  "remaining_images": 1536,
+  "remaining_masks": 1536,
+  "image_sizes": {
+    "(512, 512)": 1536
+  },
+  "retained_files_unchanged": true,
+  "image_mask_pairs_valid": true,
+  "csv_image_references_valid": true,
+  "csv_counts": {
+    "TB_dataset_labels.csv": 472,
+    "TB_test.csv": 48,
+    "TB_train.csv": 330,
+    "TB_val.csv": 94
+  },
+  "preexisting_csv_issues": {
+    "train_test_overlap": [
+      "TB_Camera3_000211_N.png"
+    ],
+    "duplicate_rows_by_csv": {
+      "TB_dataset_labels.csv": [
+        "TB_Camera3_000211_N.png"
+      ],
+      "TB_test.csv": [],
+      "TB_train.csv": [],
+      "TB_val.csv": []
+    }
+  },
+  "csv_changed": false,
+  "repository_history_unchanged": true
+}

@@ -1,0 +1,15 @@
+{
+  "independent_deterministic_gpu_smokes": 2,
+  "model_weights_bitwise_equal": true,
+  "train_validation_test_metrics_equal_excluding_timing": true,
+  "prediction_files_equal": true,
+  "dataset_fingerprints_equal": true,
+  "full_checkpoint_weights_only_load": true,
+  "optimizer_scheduler_restore": true,
+  "python_numpy_torch_cpu_cuda_sampler_rng_restore": true,
+  "hardware_scope": "same local GPU and software environment",
+  "original_training_remains_paused": true,
+  "final_version_repeat_checked": true,
+  "automatic_training_log_verified": true,
+  "dashboard_can_read_new_run": true
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "image_recall": 0.95,
+    "image_precision": 0.7916666666666666,
+    "image_f1": 0.8636363636363636,
+    "mean_candidates": 64.0,
+    "epoch": 1
+  }
+]

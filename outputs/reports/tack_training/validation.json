@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "all_masks_match_crack_value_40": true,
+  "source_groups_disjoint": true,
+  "all_1536_samples_load": true,
+  "splits": {
+    "train": {
+      "images": 1080,
+      "positive": 196,
+      "negative": 884,
+      "groups": 90
+    },
+    "val": {
+      "images": 300,
+      "positive": 43,
+      "negative": 257,
+      "groups": 25
+    },
+    "test": {
+      "images": 156,
+      "positive": 24,
+      "negative": 132,
+      "groups": 13
+    }
+  },
+  "all_negative_loss_and_gradients_finite": true,
+  "known_prediction_metrics_and_negative_fp": "PASS",
+  "gpu_smoke": {
+    "status": "PASS",
+    "train_positive": 6,
+    "train_negative": 6,
+    "val_positive": 4,
+    "val_negative": 4,
+    "test_positive": 4,
+    "test_negative": 4,
+    "parameters_updated": true,
+    "checkpoint_reload": true,
+    "peak_cuda_memory_mb": 2288.3466796875,
+    "dice": 0.0
+  },
+  "prepare_idempotence": "PASS"
+}

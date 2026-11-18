@@ -1,0 +1,13 @@
+name: TTD
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.11
+  - torchvision
+  - pip
+  - pip:
+      - opencv-python
+      - matplotlib
+      - pandas
+      - fastai

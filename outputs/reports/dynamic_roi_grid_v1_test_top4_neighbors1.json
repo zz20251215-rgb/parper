@@ -1,0 +1,208 @@
+{
+  "split": "test",
+  "topk": 4,
+  "neighbors": 1,
+  "mean_selected_tiles": 8.846153846153847,
+  "dice": 0.4169191576598984,
+  "recall": 0.4834131506274688,
+  "totals": {
+    "tp": 13829,
+    "fp": 23903,
+    "fn": 14778
+  },
+  "frames": [
+    {
+      "group": "TB_Camera3_000265",
+      "selected": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 12
+    },
+    {
+      "group": "TB_Camera3_001322",
+      "selected": [
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera3_001658",
+      "selected": [
+        "B",
+        "E",
+        "F",
+        "G",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera4_000628",
+      "selected": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera4_000850",
+      "selected": [
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera4_001237",
+      "selected": [
+        "A",
+        "E",
+        "F",
+        "G",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera6_001520",
+      "selected": [
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera7_000770",
+      "selected": [
+        "B",
+        "C",
+        "D",
+        "F",
+        "G",
+        "H",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera7_001292",
+      "selected": [
+        "C",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera9_000397",
+      "selected": [
+        "C",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 8
+    },
+    {
+      "group": "TB_Camera9_000903",
+      "selected": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 11
+    },
+    {
+      "group": "TB_Camera9_001643",
+      "selected": [
+        "A",
+        "B",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M",
+        "N"
+      ],
+      "tiles": 10
+    },
+    {
+      "group": "TB_Camera9_001684",
+      "selected": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "L",
+        "M"
+      ],
+      "tiles": 10
+    }
+  ]
+}

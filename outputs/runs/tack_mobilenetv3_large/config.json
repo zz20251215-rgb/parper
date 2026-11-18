@@ -1,0 +1,61 @@
+{
+  "model": "MobileNetV3-Large-U-Net",
+  "model_key": "mobilenetv3_large",
+  "pretrained": true,
+  "encoder_weights": "ResNet34_Weights.IMAGENET1K_V1",
+  "encoder_warmup_epochs": 3,
+  "encoder_learning_rate": 0.0001,
+  "normalization": "ImageNet mean/std inside model, input remains RGB in [0,1]",
+  "seed": 42,
+  "source": "data/TACK_Tunnel_Data",
+  "splits": "data/processed/TACK_Tunnel_B",
+  "split_summary": {
+    "train": {
+      "groups": 90,
+      "images": 1080,
+      "positive": 196,
+      "negative": 884,
+      "crack_pixel_ratio": 0.0008839607238769531
+    },
+    "val": {
+      "groups": 25,
+      "images": 300,
+      "positive": 43,
+      "negative": 257,
+      "crack_pixel_ratio": 0.0013106155395507812
+    },
+    "test": {
+      "groups": 13,
+      "images": 156,
+      "positive": 24,
+      "negative": 132,
+      "crack_pixel_ratio": 0.0006995323376777845
+    }
+  },
+  "epochs": 100,
+  "batch_size": 4,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "scheduler": "ReduceLROnPlateau",
+  "minimum_lr": 1e-05,
+  "lr_patience": 5,
+  "lr_factor": 0.5,
+  "early_stopping": {
+    "min_epochs": 30,
+    "patience": 15,
+    "min_delta": 0.002
+  },
+  "loss": "BCE(all images) + Dice(positive images)",
+  "loss_reporting": "dataset-global mean BCE + mean Dice loss over positive images",
+  "train_sampling": "expected 1:1 positive/negative with replacement; len(train) draws/epoch",
+  "augmentation": "horizontal flip p=0.5 and uniform 0/90/180/270 degree rotation",
+  "threshold": 0.5,
+  "smoke": false,
+  "smoke_sampling": null,
+  "torch": "2.11.0+cu128",
+  "cuda": "12.8",
+  "deterministic_algorithms": false,
+  "tf32": true,
+  "cudnn_benchmark": true,
+  "precision": "FP32 with TF32 convolution/matmul; no AMP"
+}

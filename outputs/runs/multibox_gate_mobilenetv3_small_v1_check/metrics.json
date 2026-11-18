@@ -1,0 +1,23 @@
+{
+  "model": "MobileNetV3-Small multi-scale multi-box gate",
+  "preview_size": [
+    512,
+    384
+  ],
+  "smoke": false,
+  "history": [
+    {
+      "image_recall": 0.95,
+      "image_precision": 0.7916666666666666,
+      "image_f1": 0.8636363636363636,
+      "mean_candidates": 64.0,
+      "epoch": 1
+    }
+  ],
+  "test": {
+    "image_recall": 1.0,
+    "image_precision": 1.0,
+    "image_f1": 1.0,
+    "mean_candidates": 64.0
+  }
+}

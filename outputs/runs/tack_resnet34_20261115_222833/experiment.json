@@ -1,0 +1,5 @@
+{
+  "status": "experiment_record",
+  "deterministic_algorithms": false,
+  "message": "迁移学习：ImageNet ResNet34 编码器；保存逐轮原始指标和论文曲线，不要求逐位复现。"
+}

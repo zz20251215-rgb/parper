@@ -1,0 +1,5 @@
+{
+  "status": "experiment_record",
+  "deterministic_algorithms": false,
+  "message": "普通训练模式：保留配置、逐轮指标与论文曲线，不要求逐位复现。"
+}

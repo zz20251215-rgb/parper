@@ -1,0 +1,8 @@
+{
+  "pid": 35695,
+  "command": "scripts/train.py --epochs 100 --batch-size 4 --output outputs/runs/tack_baseline",
+  "status": "stopped_for_restart",
+  "paused_at": "2026-11-15T20:52:13.662650+08:00",
+  "stopped_at": "2026-11-15T21:16:23.626575+08:00",
+  "replaced_by": "outputs/runs/tack_repro_20261115_211623"
+}
